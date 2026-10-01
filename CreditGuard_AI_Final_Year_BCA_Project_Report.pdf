@@ -1,0 +1,6561 @@
+%PDF-1.3
+%∫ﬂ¨‡
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 2910
+>>
+stream
+0.5670000000000001 w
+0 G
+0.12 0.16 0.23 RG
+4.2519685039370083 w
+28.3464566929133888 813.5435433070865656 538.5870866141731312 -785.1970866141731449 re
+S
+1.4173228346456694 w
+34.0157480314960665 807.8742519685039269 527.2485039370078539 -773.8585039370078675 re
+S
+BT
+/F2 11 Tf
+12.6499999999999986 TL
+0.314 g
+216.3499999999999375 742.6774015748030706 Td
+(ACADEMIC PROJECT REPORT) Tj
+ET
+BT
+/F10 22 Tf
+25.2999999999999972 TL
+0.059 0.09 0.165 rg
+199.8499999999999659 700.15771653543311 Td
+(CREDITGUARD AI) Tj
+ET
+0.12 0.16 0.23 RG
+2.2677165354330713 w
+226.7738582677164914 677.480551181102328 m
+368.5061417322834245 677.480551181102328 l
+S
+BT
+/F11 14 Tf
+16.0999999999999979 TL
+0.196 g
+158.969999999999942 654.8033858267716596 Td
+(AI-Powered Credit Card Fraud Detection System) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+146.2399999999999523 586.7718897637794271 Td
+(A Project Report Submitted In Partial Fulfillment of the Requirements) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0.314 g
+231.0399999999999636 569.7640157480313974 Td
+(for the Award of the Degree of) Tj
+ET
+BT
+/F10 14 Tf
+16.0999999999999979 TL
+0.059 0.09 0.165 rg
+128.3100000000000023 541.4175590551180903 Td
+(BACHELOR OF COMPUTER APPLICATIONS \(BCA\)) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.392 g
+70.8661417322834666 442.2049606299212314 Td
+(SUBMITTED BY:) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.392 g
+325.9864566929133503 442.2049606299212314 Td
+(UNDER THE SUPERVISION OF:) Tj
+ET
+BT
+/F10 11 Tf
+12.6499999999999986 TL
+0.059 0.09 0.165 rg
+70.8661417322834666 425.1970866141731449 Td
+([Student Name - To be Added]) Tj
+ET
+BT
+/F10 11 Tf
+12.6499999999999986 TL
+0.059 0.09 0.165 rg
+325.9864566929133503 425.1970866141731449 Td
+([Supervisor Name - To be Added]) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.235 g
+70.8661417322834666 411.0238582677164914 Td
+(Roll No: [University Roll Number - To be Added]) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.235 g
+325.9864566929133503 411.0238582677164914 Td
+(Assistant Professor / Project Guide) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.235 g
+70.8661417322834666 396.850629921259781 Td
+(Reg. No: [Registration Number - To be Added]) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.235 g
+325.9864566929133503 396.850629921259781 Td
+(Department of Computer Applications) Tj
+ET
+0.78 G
+70.8661417322834666 170.0787401574803255 m
+524.4138582677164777 170.0787401574803255 l
+S
+BT
+/F10 11 Tf
+12.6499999999999986 TL
+0.059 0.09 0.165 rg
+207.219999999999942 155.9055118110236435 Td
+(Department of Computer Applications) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+194.3199999999999363 141.73228346456699 Td
+([College / Institute Name - To be Added]) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.314 g
+214.2999999999999261 127.5590551181102228 Td
+([Affiliated University Name - To be Added]) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.314 g
+220.5099999999999625 110.5511811023621931 Td
+(Session: 2025 ñ 2026 ï October 2026) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 3250
+>>
+stream
+2.2677165354330713 w
+0.78 G
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+171.7999999999999545 756.8506299212598378 Td
+(CERTIFICATE OF ORIGINALITY) Tj
+ET
+1.4173228346456694 w
+240.9470866141732017 745.5120472440944468 m
+354.332913385826771 745.5120472440944468 l
+S
+BT
+/F9 10.5 Tf
+12.0749999999999993 TL
+0.118 g
+56.6929133858267775 694.4884251968503577 Td
+(This is to certify that the project report entitled "CreditGuard AI ó AI-Powered Credit Card Fraud Detection) Tj
+T* (System" is a bonafide academic work carried out by [Student Name - To be Added] \(University Roll No:) Tj
+T* ([University Roll Number - To be Added], Registration No: [Registration Number - To be Added]\) in partial) Tj
+T* (fulfillment of the requirements for the award of the degree of Bachelor of Computer Applications \(BCA\) from) Tj
+T* ([College / Institute Name - To be Added] affiliated with [Affiliated University Name - To be Added] during the) Tj
+T* (academic session 2025 ñ 2026.) Tj
+ET
+BT
+/F9 10.5 Tf
+12.0749999999999993 TL
+0.118 g
+56.6929133858267775 578.2679527559055259 Td
+(The project work described in this report has been executed under my direct guidance and supervision. To the best) Tj
+T* (of my knowledge, the matter embodied in this report has not been submitted to any other University or Institution) Tj
+T* (for the award of any degree or diploma.) Tj
+ET
+BT
+/F9 10.5 Tf
+12.0749999999999993 TL
+0.118 g
+56.6929133858267775 508.8191338582676622 Td
+(The candidate has fulfilled all the necessary academic and statutory requirements for the submission of this) Tj
+T* (final-year project report.) Tj
+ET
+0.8503937007874016 w
+56.6929133858267775 184.2519685039370358 m
+184.2519685039370358 184.2519685039370358 l
+S
+226.7738582677164914 184.2519685039370358 m
+354.332913385826771 184.2519685039370358 l
+S
+411.0280314960629084 184.2519685039370358 m
+538.5870866141731312 184.2519685039370358 l
+S
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+0.118 g
+56.6929133858267775 170.0787401574802971 Td
+([Supervisor Name - To be Added]) Tj
+ET
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+0.118 g
+226.7738582677164914 170.0787401574802971 Td
+([HOD Name - To be Added]) Tj
+ET
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+0.118 g
+411.0280314960629084 170.0787401574802971 Td
+([External Examiner - To be Added]) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.392 g
+56.6929133858267775 158.7401574803150197 Td
+(Project Supervisor / Guide) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.392 g
+226.7738582677164914 158.7401574803150197 Td
+(Head of Department) Tj
+ET
+BT
+/F1 8.5 Tf
+9.7749999999999986 TL
+0.392 g
+411.0280314960629084 158.7401574803150197 Td
+(External Examiner) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 807.8742519685039269 Td
+(CreditGuard AI: AI-Powered Credit Card Fraud Detection System ï BCA Project Report) Tj
+ET
+0.78 G
+0.5669291338582678 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 39.6850393700787407 m
+538.5870866141731312 39.6850393700787407 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 28.3464566929134207 Td
+([College / Institute Name - To be Added]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+493.5470866141731676 28.3464566929134207 Td
+(Page 2 of 34) Tj
+ET
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 2651
+>>
+stream
+0.8503937007874016 w
+0.78 G
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+187.6399999999999011 756.8506299212598378 Td
+(CANDIDATE DECLARATION) Tj
+ET
+240.9470866141732017 745.5120472440944468 m
+354.332913385826771 745.5120472440944468 l
+S
+BT
+/F9 10.5 Tf
+12.0749999999999993 TL
+0.118 g
+56.6929133858267775 694.4884251968503577 Td
+(I, [Student Name - To be Added], student of Bachelor of Computer Applications \(BCA\) at [College / Institute) Tj
+T* (Name - To be Added], hereby declare that the project entitled "CreditGuard AI ó AI-Powered Credit Card Fraud) Tj
+T* (Detection System" is an authentic record of my own work carried out under the supervision of [Supervisor Name -) Tj
+T* (To be Added], Assistant Professor / Project Guide, Department of Computer Applications.) Tj
+ET
+BT
+/F9 10.5 Tf
+12.0749999999999993 TL
+0.118 g
+56.6929133858267775 609.4490551181102092 Td
+(I further declare that this report has not formed the basis for the award of any Degree, Diploma, Associateship,) Tj
+T* (Fellowship, or any other similar title in this or any other university or institute of higher education.) Tj
+ET
+BT
+/F9 10.5 Tf
+12.0749999999999993 TL
+0.118 g
+56.6929133858267775 555.5907874015747439 Td
+(Wherever contributions of others are involved, every effort has been made to indicate this clearly, with due) Tj
+T* (acknowledgement and reference to the respective software libraries, documentation, and conceptual literature.) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.118 g
+56.6929133858267775 155.9055118110236435 Td
+(Place: [City - To be Added]) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.118 g
+56.6929133858267775 141.73228346456699 Td
+(Date: October 2026) Tj
+ET
+396.8548031496061981 155.9055118110236435 m
+538.5870866141731312 155.9055118110236435 l
+S
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.118 g
+396.8548031496061981 141.73228346456699 Td
+([Student Name - To be Added]) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.118 g
+396.8548031496061981 130.393700787401599 Td
+(Roll No: [University Roll Number - To be Added]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 807.8742519685039269 Td
+(CreditGuard AI: AI-Powered Credit Card Fraud Detection System ï BCA Project Report) Tj
+ET
+0.78 G
+0.5669291338582678 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 39.6850393700787407 m
+538.5870866141731312 39.6850393700787407 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 28.3464566929134207 Td
+([College / Institute Name - To be Added]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+493.5470866141731676 28.3464566929134207 Td
+(Page 3 of 34) Tj
+ET
+endstream
+endobj
+9 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 10 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 4223
+>>
+stream
+0.8503937007874016 w
+0.78 G
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+254.3599999999999568 756.8506299212598378 Td
+(ABSTRACT) Tj
+ET
+255.1203149606298837 745.5120472440944468 m
+340.1596850393700606 745.5120472440944468 l
+S
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 700.15771653543311 Td
+(With the exponential growth of electronic commerce and Card-Not-Present \(CNP\) digital payment mechanisms, credit) Tj
+T* (card fraud has emerged as an acute global financial threat causing multi-billion-dollar annual capital losses.) Tj
+T* (Conventional rule-based fraud detection systems exhibit rigid operational thresholds, high false-positive decline rates,) Tj
+T* (and an inability to detect evolving non-linear fraud vectors.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 634.3939370078740012 Td
+(This project presents CreditGuard AI, an end-to-end machine-learning-based web application designed to evaluate) Tj
+T* (transactional, customer demographic, merchant, and geospatial telemetry in real time to detect potentially fraudulent) Tj
+T* (transactions. The system incorporates a disciplined data preprocessing pipeline executed on historical transaction) Tj
+T* (records \(dataset/train.csv\), wherein non-predictive identifiers and direct card numbers \(cc_num\) are eliminated to) Tj
+T* (uphold PCI-DSS privacy standards and prevent model overfitting.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 555.0238582677164914 Td
+(Domain-specific feature engineering extracts diurnal and seasonal temporal signals \(hour, day, month, day of week,) Tj
+T* (weekend indicator\) from transaction timestamps, calculates cardholder age in fractional years from birth dates, and) Tj
+T* (computes the great-circle surface distance between cardholder residence and merchant location using the spherical) Tj
+T* (Haversine distance formula. To resolve the curse of dimensionality inherent in high-cardinality financial features) Tj
+T* (\(merchant, category, gender, city, state, job\), the pipeline integrates CatBoostEncoder, regularizing category statistics) Tj
+T* (against empirical training priors while strictly preventing future target leakage.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 462.0474803149605805 Td
+(Acute class imbalance is mitigated through cost-sensitive balanced sample weighting \(compute_sample_weight\),) Tj
+T* (penalizing minority fraud classification errors heavily during model training. The core inference estimator utilizes) Tj
+T* (Scikit-learnís HistGradientBoostingClassifier \(hyperparameters: learning_rate=0.1, max_iter=150, max_leaf_nodes=31,) Tj
+T* (min_samples_leaf=50, l2_regularization=1.0, random_state=42\). A calibrated fraud decision probability threshold of) Tj
+T* (0.90 is configured to prioritize high-confidence fraud detection and suppress false alarms.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 382.6774015748030706 Td
+(The trained pipeline artifacts are serialized via Joblib and deployed within a lightweight Python Flask microservice) Tj
+T* (backend paired with a modern, responsive, dark-fintech glassmorphism web interface. The resulting application) Tj
+T* (demonstrates an effective prototype for automated financial risk evaluation.) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.118 g
+56.6929133858267775 319.1813385826770855 Td
+(Keywords: ) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.118 g
+107.7165354330708738 319.1813385826770855 Td
+(Credit Card Fraud Detection, Machine Learning, HistGradientBoostingClassifier, CatBoostEncoder, Haversine Distance, Class Imbalance, Flask, BCA Project.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 807.8742519685039269 Td
+(CreditGuard AI: AI-Powered Credit Card Fraud Detection System ï BCA Project Report) Tj
+ET
+0.78 G
+0.5669291338582678 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 39.6850393700787407 m
+538.5870866141731312 39.6850393700787407 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 28.3464566929134207 Td
+([College / Institute Name - To be Added]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+493.5470866141731676 28.3464566929134207 Td
+(Page 4 of 34) Tj
+ET
+endstream
+endobj
+11 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 12 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 6858
+>>
+stream
+0.8503937007874016 w
+0.78 G
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+197.6399999999999295 756.8506299212598378 Td
+(LIST OF ABBREVIATIONS) Tj
+ET
+226.7738582677164914 745.5120472440944468 m
+368.5061417322834245 745.5120472440944468 l
+S
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 705.8270078740157487 Td
+(AI) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.059 0.09 0.165 rg
+127.5590551181102512 705.8270078740157487 Td
+(Artificial Intelligence) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 g
+269.2913385826772128 705.8270078740157487 Td
+(ó Simulation of human intelligence by computer systems and algorithms.) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.118 g
+56.6929133858267775 688.819133858267719 Td
+(ML) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.118 g
+127.5590551181102512 688.819133858267719 Td
+(Machine Learning) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 g
+269.2913385826772128 688.819133858267719 Td
+(ó Subfield of AI focusing on data-driven statistical model training.) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.118 g
+56.6929133858267775 671.8112598425196893 Td
+(BCA) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.118 g
+127.5590551181102512 671.8112598425196893 Td
+(Bachelor of Computer Applications) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 g
+269.2913385826772128 671.8112598425196893 Td
+(ó Undergraduate professional degree in computer software and applications.) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.118 g
+56.6929133858267775 654.8033858267716596 Td
+(CNP) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.118 g
+127.5590551181102512 654.8033858267716596 Td
+(Card-Not-Present) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 g
+269.2913385826772128 654.8033858267716596 Td
+(ó Financial transaction where the physical credit card is not provided to the merchant.) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.118 g
+56.6929133858267775 637.7955118110235162 Td
+(GBDT) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.118 g
+127.5590551181102512 637.7955118110235162 Td
+(Gradient Boosted Decision Trees) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 g
+269.2913385826772128 637.7955118110235162 Td
+(ó Ensemble machine learning technique combining weak learner decision trees.) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.118 g
+56.6929133858267775 620.7876377952754865 Td
+(HGBR) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.118 g
+127.5590551181102512 620.7876377952754865 Td
+(Histogram-based Gradient Boosting) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 g
+269.2913385826772128 620.7876377952754865 Td
+(ó Optimized tree boosting algorithm utilizing discrete feature binning.) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.118 g
+56.6929133858267775 603.7797637795274568 Td
+(DFD) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.118 g
+127.5590551181102512 603.7797637795274568 Td
+(Data Flow Diagram) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 g
+269.2913385826772128 603.7797637795274568 Td
+(ó Graphical representation of the data movement through an information system.) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.118 g
+56.6929133858267775 586.7718897637794271 Td
+(API) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.118 g
+127.5590551181102512 586.7718897637794271 Td
+(Application Programming Interface) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 g
+269.2913385826772128 586.7718897637794271 Td
+(ó Set of protocols allowing distinct software applications to communicate.) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.118 g
+56.6929133858267775 569.7640157480313974 Td
+(REST) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.118 g
+127.5590551181102512 569.7640157480313974 Td
+(Representational State Transfer) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 g
+269.2913385826772128 569.7640157480313974 Td
+(ó Architectural style for distributed hypermedia systems.) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.118 g
+56.6929133858267775 552.7561417322833677 Td
+(PCI-DSS) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.118 g
+127.5590551181102512 552.7561417322833677 Td
+(Payment Card Industry Data Security Standard) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 g
+269.2913385826772128 552.7561417322833677 Td
+(ó Information security standard for organizations handling branded credit cards.) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.118 g
+56.6929133858267775 535.748267716535338 Td
+(ROC-AUC) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.118 g
+127.5590551181102512 535.748267716535338 Td
+(Receiver Operating Characteristic - Area Under Curve) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 g
+269.2913385826772128 535.748267716535338 Td
+(ó Performance measurement for classification problems at various threshold settings.) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.118 g
+56.6929133858267775 518.7403937007873083 Td
+(UI / UX) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.118 g
+127.5590551181102512 518.7403937007873083 Td
+(User Interface / User Experience) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 g
+269.2913385826772128 518.7403937007873083 Td
+(ó Visual layout and user interaction design of a software application.) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.118 g
+56.6929133858267775 501.7325196850393354 Td
+(EDA) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.118 g
+127.5590551181102512 501.7325196850393354 Td
+(Exploratory Data Analysis) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 g
+269.2913385826772128 501.7325196850393354 Td
+(ó Statistical approach of analyzing datasets to summarize primary characteristics.) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.118 g
+56.6929133858267775 484.7246456692913057 Td
+(JSON) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.118 g
+127.5590551181102512 484.7246456692913057 Td
+(JavaScript Object Notation) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 g
+269.2913385826772128 484.7246456692913057 Td
+(ó Standard text-based format for representing structured data.) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.118 g
+56.6929133858267775 467.716771653543276 Td
+(HTTP) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.118 g
+127.5590551181102512 467.716771653543276 Td
+(Hypertext Transfer Protocol) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.392 g
+269.2913385826772128 467.716771653543276 Td
+(ó Application-level protocol for distributed collaborative hypermedia information systems.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 807.8742519685039269 Td
+(CreditGuard AI: AI-Powered Credit Card Fraud Detection System ï BCA Project Report) Tj
+ET
+0.78 G
+0.5669291338582678 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 39.6850393700787407 m
+538.5870866141731312 39.6850393700787407 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 28.3464566929134207 Td
+([College / Institute Name - To be Added]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+493.5470866141731676 28.3464566929134207 Td
+(Page 5 of 34) Tj
+ET
+endstream
+endobj
+13 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 14 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 5790
+>>
+stream
+0.8503937007874016 w
+0.78 G
+BT
+/F2 10 Tf
+11.5 TL
+0.392 g
+56.6929133858267775 771.0238582677164914 Td
+(CHAPTER 1) Tj
+ET
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 751.1813385826771992 Td
+(INTRODUCTION) Tj
+ET
+1.7007874015748032 w
+56.6929133858267775 739.8427559055118081 m
+538.5870866141731312 739.8427559055118081 l
+S
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 711.4962992125983874 Td
+(1.1 Background) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 694.4884251968503577 Td
+(The 21st century financial ecosystem has witnessed an unprecedented transformation characterized by the rapid) Tj
+T* (migration of commerce from brick-and-mortar storefronts to digital, decentralized payment platforms. The proliferation) Tj
+T* (of electronic commerce \(e-commerce\), mobile point-of-sale applications, unified payment interfaces, and automated) Tj
+T* (clearing houses has made cashless transactions ubiquitous. Millions of consumers worldwide conduct debit and credit) Tj
+T* (card operations every second, transferring trillions of dollars across international banking rails.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 616.5356692913385359 Td
+(However, this exponential acceleration of digital transaction velocity has introduced acute systemic vulnerabilities. The) Tj
+T* (detachment of the physical payment card from the checkout processótermed Card-Not-Present \(CNP\)) Tj
+T* (transactionsóhas created fertile ground for illicit syndicates, unauthorized credential abuse, identity theft, and) Tj
+T* (automated carding attacks. Fraudulent transactions not only impose devastating multi-billion-dollar direct capital losses) Tj
+T* (on retail banks, merchants, and cardholders, but they also degrade consumer trust in digital banking infrastructure,) Tj
+T* (escalate dispute-handling overheads, and incur severe regulatory penalties.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 524.9766141732283131 Td
+(In this high-stakes threat landscape, the implementation of robust, real-time fraud detection systems has evolved from) Tj
+T* (an operational option into a mandatory foundational pillar of electronic banking. As fraud patterns shift dynamically to) Tj
+T* (bypass static operational rules, the application of modern Artificial Intelligence \(AI\) and Machine Learning \(ML\)) Tj
+T* (techniques has emerged as the premier technological frontier for financial defense, enabling the automated discovery of) Tj
+T* (subtle, multivariate anomalies buried deep within massive volumes of legitimate transaction streams.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 441.3545669291337958 Td
+(1.2 Problem Statement) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 424.3466929133857093 Td
+(For decades, financial institutions predominantly defended payment networks using deterministic, heuristic-driven rule) Tj
+T* (engines. These legacy systems rely on human-authored threshold policiesósuch as automatically flagging any single) Tj
+T* (transaction exceeding $5,000, rejecting purchases occurring outside a cardholderís domestic billing state, or declining) Tj
+T* (more than three rapid successive transactions within ten minutes.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 360.0002362204724022 Td
+(While conceptually simple to implement, traditional rule-based fraud detection mechanisms suffer from severe,) Tj
+T* (structural limitations in modern high-velocity financial environments:) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 322.8663779527558972 Td
+(1. Inflexibility and High False Positive Rates: Hardcoded thresholds fail to capture the complex, non-linear context of) Tj
+T* (legitimate modern consumer behavior. Legitimate high-value holiday purchases or travel expenditures are frequently) Tj
+T* (declined, creating extreme customer friction and cart abandonment.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 272.1262204724408775 Td
+(2. Inability to Detect Novel Attack Vectors: Sophisticated financial criminals actively probe and identify static rule) Tj
+T* (thresholds, intentionally calibrating fraudulent transaction amounts \(e.g., executing unauthorized charges of $49.90) Tj
+T* (rather than $50.00\) to remain beneath trigger thresholds.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 221.3860629921258578 Td
+(3. Dimensionality and Scalability Bottlenecks: Human fraud analysts cannot manually synthesize multi-dimensional) Tj
+T* (correlations spanning transaction frequency, geographical displacement, merchant categories, temporal cycles, and) Tj
+T* (cardholder age simultaneously across millions of concurrent streaming events.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 170.6459055118109518 Td
+(Consequently, there is an urgent requirement for an intelligent, adaptive, machine-learning-based fraud detection system) Tj
+T* (capable of learning high-dimensional non-linear interactions directly from historical transactional data, computing) Tj
+T* (calibrated fraud risk probabilities, and operating with high precision to minimize costly false alarms.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 807.8742519685039269 Td
+(CreditGuard AI: AI-Powered Credit Card Fraud Detection System ï BCA Project Report) Tj
+ET
+0.78 G
+0.5669291338582678 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 39.6850393700787407 m
+538.5870866141731312 39.6850393700787407 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 28.3464566929134207 Td
+([College / Institute Name - To be Added]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+493.5470866141731676 28.3464566929134207 Td
+(Page 6 of 34) Tj
+ET
+endstream
+endobj
+15 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 16 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 5771
+>>
+stream
+1.7007874015748032 w
+0.78 G
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 785.1970866141732586 Td
+(1.3 Motivation) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 768.1892125984252289 Td
+(The core motivation behind developing CreditGuard AI stems from the critical need to bridge the gap between) Tj
+T* (theoretical machine learning methodologies and deployable, practical financial technology applications. While) Tj
+T* (numerous academic studies explore isolated algorithmic benchmarks on static data, real-world fraud mitigation requires) Tj
+T* (an end-to-end, resilient pipeline capable of ingesting raw transaction telemetry, executing automated feature) Tj
+T* (engineering, handling extreme class imbalance, evaluating high-precision probability thresholds, and rendering instant) Tj
+T* (risk interpretations via an intuitive web interface.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 676.6301574803148924 Td
+(Furthermore, modern financial compliance and risk management protocols demand that risk evaluation systems do not) Tj
+T* (act as obscure "black boxes." Risk analysts and investigators require clear, continuous probability metrics and structured) Tj
+T* (risk indicators that distinguish routine low-risk activities from critical anomalies. CreditGuard AI was conceived as an) Tj
+T* (end-to-end undergraduate computer applications engineering project that demonstrates how modern Python machine) Tj
+T* (learning libraries \(such as Scikit-learn, Category Encoders, and Joblib\) can be harmoniously integrated with lightweight) Tj
+T* (microservice architectures \(Flask\) to produce an accessible, production-styled decision support system.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 579.4018110236220309 Td
+(1.4 Objectives) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 562.3939370078740012 Td
+(The overarching aim of this project is to research, design, develop, and evaluate an automated machine-learning-based) Tj
+T* (credit card fraud detection system. To accomplish this aim, the specific technical objectives are formulated as follows:) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 525.2600787401574962 Td
+(1. Transaction Data Ingestion and Cleansing: Ingest raw transaction datasets, eliminate redundant record identifiers, and) Tj
+T* (enforce strict data hygiene to avoid data leakage.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 488.1262204724409344 Td
+(2. Domain-Specific Feature Engineering: Formulate temporal, demographic, and geospatial features from raw) Tj
+T* (transaction timestamps, customer birth dates, and geographical coordinates using the Haversine spherical distance) Tj
+T* (formula.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 437.3860629921259715 Td
+(3. Target-Aware Categorical Feature Encoding: Implement and validate CatBoost Encoding to transform) Tj
+T* (high-cardinality categorical variables \(such as merchant names, job titles, and cities\) into continuous mathematical) Tj
+T* (representations without inducing dimensional explosion.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 386.6459055118109518 Td
+(4. Class Imbalance Mitigation: Implement cost-sensitive balanced sample weighting during algorithm training to) Tj
+T* (counter the acute rarity of fraudulent samples relative to legitimate transactions.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 349.5120472440944468 Td
+(5. Model Construction and Optimization: Train and tune a high-performance Scikit-learn) Tj
+T* (HistGradientBoostingClassifier utilizing histogram-based continuous feature binning and L2 regularization.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 312.3781889763779418 Td
+(6. Calibrated Probability Thresholding: Establish and evaluate a strict fraud decision probability threshold of 0.90 to) Tj
+T* (prioritize high-confidence fraud detection and suppress false alarms.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 275.2443307086614368 Td
+(7. Serialization and Pipeline Packaging: Safely serialize all fitted data transformation encoders, model weights, and) Tj
+T* (decision thresholds into reusable Joblib artifacts for persistent deployment.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 238.1104724409449318 Td
+(8. Web Application Development: Construct a modern, responsive, dark-mode fintech web application using Flask,) Tj
+T* (HTML5, CSS3, and JavaScript, providing instant risk telemetry, probability visualizations, and transaction reset) Tj
+T* (capabilities.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 181.7010236220472734 Td
+(1.5 Scope of the Project) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 164.6931496062992437 Td
+(The scope of CreditGuard AI encompasses the entire machine learning life cycle from dataset preprocessing to) Tj
+T* (interactive web-based inferencing. The project specifically addresses:) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 127.559291338582625 Td
+(ï Offline model training and hyperparameter configuration using Scikit-learn.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 807.8742519685039269 Td
+(CreditGuard AI: AI-Powered Credit Card Fraud Detection System ï BCA Project Report) Tj
+ET
+0.78 G
+0.5669291338582678 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 39.6850393700787407 m
+538.5870866141731312 39.6850393700787407 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 28.3464566929134207 Td
+([College / Institute Name - To be Added]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+493.5470866141731676 28.3464566929134207 Td
+(Page 7 of 34) Tj
+ET
+endstream
+endobj
+17 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 18 0 R
+>>
+endobj
+18 0 obj
+<<
+/Length 4744
+>>
+stream
+1.7007874015748032 w
+0.78 G
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 785.1970866141732586 Td
+(ï Evaluation of multi-variate features including transaction amount, customer age, merchant category, time of day, day) Tj
+T* (of week, weekend flags, and geographical distance.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 748.0632283464566399 Td
+(ï The development of a local Flask web server hosting a dedicated inference endpoint \(/predict\) that receives transaction) Tj
+T* (data payloads in real time.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 710.9293700787401349 Td
+(ï A modern, client-side glassmorphism web interface featuring transaction forms, security status indicators, dynamic) Tj
+T* (probability gauges, and classified risk indicators.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 673.7955118110235162 Td
+(The scope is defined as an academic simulation and decision-support prototype. It does not encompass live integration) Tj
+T* (into core banking switches \(such as ISO 8583 message networks\), hardware cryptographic security modules \(HSM\), or) Tj
+T* (distributed streaming infrastructure \(e.g., Apache Kafka\), which are treated as future scope items.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 617.3860629921259715 Td
+(1.6 Significance of the Project) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 600.3781889763779418 Td
+(The significance of CreditGuard AI lies in its demonstration of applied data science and software engineering principles) Tj
+T* (within the financial security domain. For an undergraduate Bachelor of Computer Applications curriculum, the project) Tj
+T* (synthesizes foundational disciplinesóincluding object-oriented programming, data structures, applied statistics, web) Tj
+T* (development, and software testingóinto a coherent, industry-relevant application.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 536.0317322834645211 Td
+(From a functional perspective, the system illustrates how disciplined feature engineering \(such as calculating the) Tj
+T* (physical distance between cardholder residence and merchant location\) can drastically elevate predictive signal in) Tj
+T* (complex financial datasets. Moreover, by explicitly addressing the real-world operational trade-offs of false positives) Tj
+T* (through a calibrated 0.90 probability threshold, the project emphasizes pragmatic engineering over theoretical idealism.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 466.0159842519684616 Td
+(1.7 Limitations) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 449.0081102362204319 Td
+(In alignment with rigorous academic transparency, several inherent project limitations must be acknowledged:) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 425.4805511811022711 Td
+(ï Dataset Boundary: The machine learning pipeline is fitted on a curated historical dataset \(train.csv\). The distribution of) Tj
+T* (fraud tactics reflects the time window and demographic parameters of this data and may not encompass emerging) Tj
+T* (synthetic identity schemes or zero-day fraud mechanisms.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 374.7403937007873083 Td
+(ï Single-Node Architecture: The Flask backend operates as a single-process development web server suitable for) Tj
+T* (academic demonstration rather than a horizontally scaled, containerized cluster.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 337.6065354330708033 Td
+(ï Absence of Live Core Banking Rails: The system relies on manual or API-simulated transaction submissions rather) Tj
+T* (than intercepting live credit card authorization messages from Visa, Mastercard, or RuPay processing networks.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 300.4726771653542983 Td
+(ï Threshold Rigidity: The 0.90 fraud decision threshold is a static, project-configured hyperparameter. In commercial) Tj
+T* (banking environments, thresholds are dynamic, adjusting per customer risk tier, transaction volume, and temporal) Tj
+T* (volatility.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 807.8742519685039269 Td
+(CreditGuard AI: AI-Powered Credit Card Fraud Detection System ï BCA Project Report) Tj
+ET
+0.78 G
+0.5669291338582678 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 39.6850393700787407 m
+538.5870866141731312 39.6850393700787407 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 28.3464566929134207 Td
+([College / Institute Name - To be Added]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+493.5470866141731676 28.3464566929134207 Td
+(Page 8 of 34) Tj
+ET
+endstream
+endobj
+19 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 20 0 R
+>>
+endobj
+20 0 obj
+<<
+/Length 5937
+>>
+stream
+1.7007874015748032 w
+0.78 G
+BT
+/F2 10 Tf
+11.5 TL
+0.392 g
+56.6929133858267775 771.0238582677164914 Td
+(CHAPTER 2) Tj
+ET
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 751.1813385826771992 Td
+(LITERATURE REVIEW) Tj
+ET
+1.7007874015748032 w
+56.6929133858267775 739.8427559055118081 m
+538.5870866141731312 739.8427559055118081 l
+S
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 711.4962992125983874 Td
+(2.1 Credit Card Fraud Detection) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 694.4884251968503577 Td
+(The discipline of credit card fraud detection has evolved continuously alongside changes in global consumer payment) Tj
+T* (mechanisms. In early payment history, fraud was restricted to physical card counterfeiting, card skimming at ATMs, and) Tj
+T* (stolen card use. The introduction of magnetic stripes and subsequently EMV \(Europay, Mastercard, Visa\) integrated) Tj
+T* (chip-and-PIN standards drastically minimized physical point-of-sale counterfeiting. [Reference to be Added]) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 630.1419685039369369 Td
+(Consequently, criminal activity shifted decisively toward Card-Not-Present \(CNP\) channels. In CNP transactions,) Tj
+T* (including online e-commerce checkouts and telephone orders, the merchant never inspects the physical card, relying) Tj
+T* (solely on card credentials \(card number, expiration date, CVV, and billing address\). This shift has caused fraud detection) Tj
+T* (to transition from a physical authentication challenge to a complex data-mining and anomaly-detection challenge across) Tj
+T* (continuous transaction streams. [Reference to be Added]) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 546.5199212598424765 Td
+(2.2 Traditional Fraud Detection Approaches) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 529.5120472440944468 Td
+(Initial industrial attempts to automate fraud detection centered on expert rule-based engines. In these architectures,) Tj
+T* (senior risk investigators author deterministic logic statements based on historical fraud post-mortems. Representative) Tj
+T* (rules include blocking transactions where the purchase amount is greater than a fixed monetary threshold, or declining) Tj
+T* (transactions where the billing zip code does not match the cardholder registration records. [Reference to be Added]) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 465.1655905511810261 Td
+(While computationally lightweight and fully interpretable, deterministic systems exhibit chronic vulnerabilities:) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 441.6380314960628652 Td
+(ï High Latency to Emerging Threats: Rules are fundamentally reactive. A new fraud pattern must inflict substantial) Tj
+T* (financial damage before analysts recognize the pattern and deploy a corrective rule. [Reference to be Added]) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 404.5041732283463602 Td
+(ï High Maintenance and Rule Explosion: Over time, financial institutions accumulate thousands of overlapping,) Tj
+T* (contradictory rules. This results in software maintenance overhead, unintended transaction declines, and immense) Tj
+T* (operational fragility. [Reference to be Added]) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 353.7640157480313974 Td
+(ï Inability to Recognize Non-Linear Combinations: A transaction with an ordinary amount \($25\) at an ordinary) Tj
+T* (merchant category \(Groceries\) may appear harmless under isolated rules, yet when combined with an abnormal 3:00) Tj
+T* (AM timestamp and a 1,200-kilometer displacement from the cardholder home, it represents extreme risk. Static rules) Tj
+T* (struggle with such combinatorial subtleties.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 283.748267716535338 Td
+(2.3 Machine Learning-Based Fraud Detection) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 266.7403937007873083 Td
+(To overcome the rigidity of rule engines, academic researchers and financial technology pioneers turned toward) Tj
+T* (Machine Learning \(ML\). Unlike deterministic systems, ML algorithms do not rely on static logic; rather, they consume) Tj
+T* (large volumes of historical transaction records to discover statistical correlations, non-linear relationships, and) Tj
+T* (behavioral anomalies autonomously. [Reference to be Added]) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 202.3939370078740012 Td
+(In literature, machine learning fraud detection encompasses three dominant paradigms:) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 178.8663779527557836 Td
+(1. Supervised Learning: Algorithms are trained on historical records where each transaction is explicitly labeled as) Tj
+T* (legitimate or fraudulent. The model learns a decision boundary mapping input features to binary classification targets.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 141.7325196850392786 Td
+(2. Unsupervised Learning and Anomaly Detection: Algorithms \(such as Isolation Forests, One-Class SVMs, and) Tj
+T* (Autoencoders\) learn the baseline distribution of legitimate transactions and flag outliers that deviate significantly from) Tj
+T* (normality. [Reference to be Added]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 807.8742519685039269 Td
+(CreditGuard AI: AI-Powered Credit Card Fraud Detection System ï BCA Project Report) Tj
+ET
+0.78 G
+0.5669291338582678 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 39.6850393700787407 m
+538.5870866141731312 39.6850393700787407 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 28.3464566929134207 Td
+([College / Institute Name - To be Added]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+493.5470866141731676 28.3464566929134207 Td
+(Page 9 of 34) Tj
+ET
+endstream
+endobj
+21 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 22 0 R
+>>
+endobj
+22 0 obj
+<<
+/Length 5665
+>>
+stream
+1.7007874015748032 w
+0.78 G
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 785.1970866141732586 Td
+(3. Semi-Supervised and Graph Neural Networks: Modern techniques that model the transaction ecosystem as a) Tj
+T* (heterogeneous graph of cardholders, merchants, devices, and IP addresses to detect coordinated fraud syndicates.) Tj
+T* ([Reference to be Added]) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 728.7876377952756002 Td
+(2.4 Supervised Learning in Financial Security) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 711.7797637795275705 Td
+(Supervised binary classification represents the established industry benchmark for fraud detection when historical) Tj
+T* (labeled transaction databases are accessible. The primary strength of supervised learning is its direct optimization) Tj
+T* (against known fraudulent behaviors. [Reference to be Added]) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 661.0396062992125508 Td
+(However, supervised training in financial transaction security faces unique domain challenges. The primary obstacle is) Tj
+T* (the extreme rarity of fraudulent events compared to normal commercial activities, alongside non-stationary consumer) Tj
+T* (spending distributions \(covariate shift\). Models must generalize without overfitting to historic attack patterns that) Tj
+T* (fraudsters have already abandoned. [Reference to be Added]) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 591.0238582677164914 Td
+(2.5 Class Imbalance in Fraud Detection) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 574.0159842519684616 Td
+(A pervasive characteristic of financial transaction datasets is extreme class imbalance. In legitimate banking networks,) Tj
+T* (fraudulent transactions typically constitute less than 0.1% to 1% of total transaction volume. [Reference to be Added]) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 536.8821259842519567 Td
+(When standard machine learning classifiers \(such as traditional decision trees or unweighted logistic regression\) are) Tj
+T* (fitted on heavily skewed data, they optimize for overall accuracy. A naive model that classifies 100% of transactions as) Tj
+T* ("Legitimate" will effortlessly achieve 99.9% classification accuracy while failing to detect a single fraudulent) Tj
+T* (transaction. [Reference to be Added]) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 472.5356692913385928 Td
+(To address this failure mode, literature documents two primary strategies: resampling techniques \(such as SMOTE) Tj
+T* (oversampling or random undersampling\) and algorithmic cost-sensitive weighting. Resampling can introduce synthetic) Tj
+T* (artifacts or discard valuable majority-class information. Conversely, cost-sensitive learningósuch as computing) Tj
+T* (class-balanced sample weightsóadjusts the loss function penalty proportionally to class frequencies, forcing the) Tj
+T* (optimization algorithm to heavily penalize errors on minority fraud cases without distorting the underlying empirical) Tj
+T* (feature distribution. [Reference to be Added]) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 375.3073228346457313 Td
+(2.6 Categorical Feature Encoding) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 358.2994488188976447 Td
+(Financial transaction records contain rich categorical information, including merchant identifiers, merchant categories,) Tj
+T* (customer state, city, and occupation. Traditional preprocessing methods such as One-Hot Encoding \(OHE\) become) Tj
+T* (mathematically intractable when applied to high-cardinality features. For instance, a dataset containing 5,000 distinct) Tj
+T* (merchants would expand the feature matrix by 5,000 sparse columns, triggering the curse of dimensionality, immense) Tj
+T* (RAM consumption, and severe tree overfitting. [Reference to be Added]) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 280.346692913385823 Td
+(Label Encoding assigns arbitrary integers \(e.g., 1, 2, 3\), which inadvertently imposes a false ordinal hierarchy upon) Tj
+T* (unordered categories. Target Encoding computes the mean target value for each categorical level, but naive target) Tj
+T* (encoding causes severe target leakage and overfitting on training folds.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 229.606535433070917 Td
+(CatBoost Encoding resolves these vulnerabilities by calculating target statistics using an ordered principle. It computes) Tj
+T* (the posterior probability of the target based on prior records in a randomized sequence, regularized with an empirical) Tj
+T* (prior. This provides a robust, low-dimensional continuous representation for high-cardinality categories that preserves) Tj
+T* (predictive power while preventing data leakage. [Reference to be Added]) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 159.5907874015748575 Td
+(2.7 Gradient Boosting Techniques and HistGradientBoosting) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 807.8742519685039269 Td
+(CreditGuard AI: AI-Powered Credit Card Fraud Detection System ï BCA Project Report) Tj
+ET
+0.78 G
+0.5669291338582678 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 39.6850393700787407 m
+538.5870866141731312 39.6850393700787407 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 28.3464566929134207 Td
+([College / Institute Name - To be Added]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+489.1470866141731904 28.3464566929134207 Td
+(Page 10 of 34) Tj
+ET
+endstream
+endobj
+23 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 24 0 R
+>>
+endobj
+24 0 obj
+<<
+/Length 2886
+>>
+stream
+1.7007874015748032 w
+0.78 G
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 785.1970866141732586 Td
+(Gradient Boosted Decision Trees \(GBDT\) are recognized as the state-of-the-art algorithmic family for tabular and) Tj
+T* (structured financial datasets. Popular implementations such as XGBoost, LightGBM, and CatBoost iteratively construct) Tj
+T* (an ensemble of shallow decision trees, where each subsequent tree fits to the pseudo-residuals \(gradients\) of the loss) Tj
+T* (function from previous trees. [Reference to be Added]) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 720.8506299212598378 Td
+(Scikit-learnís HistGradientBoostingClassifier represents an optimized modern GBDT variant inspired by LightGBM.) Tj
+T* (Instead of sorting continuous feature values at every split candidateówhich incurs an O\(n_samples * log\(n_samples\)\)) Tj
+T* (computational costóHistGradientBoosting bins continuous numerical values into 256 discrete integer bins) Tj
+T* (\(histograms\). This reduces split evaluation complexity to O\(n_bins\), accelerating training by orders of magnitude while) Tj
+T* (reducing memory footprint and offering native regularized tree growth. [Reference to be Added]) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 637.2285826771653774 Td
+(2.8 Web-Based Machine Learning Systems) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 620.2207086614173477 Td
+(The ultimate utility of a predictive model depends on its accessibility to operational stakeholders. Integrating serialized) Tj
+T* (machine learning models into lightweight web services allows organizations to decouple model inference logic from) Tj
+T* (client presentation layers. [Reference to be Added]) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 569.480551181102328 Td
+(Micro-frameworks such as Flask \(Python\) provide minimal overhead, native compatibility with Scikit-learn/Joblib) Tj
+T* (objects, and RESTful routing. When coupled with modern asynchronous browser interfaces \(HTML5, CSS3, Fetch) Tj
+T* (API\), web-based ML systems allow fraud investigators and risk officers to interact with complex algorithms in real time) Tj
+T* (without requiring local programming environments. [Reference to be Added]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 807.8742519685039269 Td
+(CreditGuard AI: AI-Powered Credit Card Fraud Detection System ï BCA Project Report) Tj
+ET
+0.78 G
+0.5669291338582678 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 39.6850393700787407 m
+538.5870866141731312 39.6850393700787407 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 28.3464566929134207 Td
+([College / Institute Name - To be Added]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+489.1470866141731904 28.3464566929134207 Td
+(Page 11 of 34) Tj
+ET
+endstream
+endobj
+25 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 26 0 R
+>>
+endobj
+26 0 obj
+<<
+/Length 5574
+>>
+stream
+1.7007874015748032 w
+0.78 G
+BT
+/F2 10 Tf
+11.5 TL
+0.392 g
+56.6929133858267775 771.0238582677164914 Td
+(CHAPTER 3) Tj
+ET
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 751.1813385826771992 Td
+(SYSTEM ANALYSIS) Tj
+ET
+1.7007874015748032 w
+56.6929133858267775 739.8427559055118081 m
+538.5870866141731312 739.8427559055118081 l
+S
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 711.4962992125983874 Td
+(3.1 Existing System) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 694.4884251968503577 Td
+(The existing credit card fraud screening mechanisms implemented across many regional financial cooperatives and) Tj
+T* (mid-tier retail merchants rely upon legacy batch audits and static, rules-based screening filters.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 657.3545669291338527 Td
+(In these systems, transactions are evaluated sequentially against a flat configuration file containing boolean constraints.) Tj
+T* (If a transaction amount exceeds an arbitrary threshold, or if the country of origin differs from the domestic home bank,) Tj
+T* (the transaction is routed into a manual review queue or declined outright. Secondary audits are conducted post-facto) Tj
+T* (\(often 24 to 72 hours following transaction settlement\) through human investigative review of end-of-day ledger) Tj
+T* (reports.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 573.7325196850392786 Td
+(3.2 Problems in Existing System) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 556.7246456692912489 Td
+(Analysis of the existing operational framework reveals several fatal deficiencies:) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 533.1970866141732586 Td
+(ï High Operational Latency: Post-settlement manual audits fail to prevent fraud in real time. By the time an investigator) Tj
+T* (identifies a compromised card, multiple fraudulent purchases have already cleared.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 496.0632283464566967 Td
+(ï Excessive False Decline Rates: Legitimate customer transactions that violate rigid rules are blocked, causing) Tj
+T* (significant customer embarrassment, brand defection, and merchant lost revenue.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 458.9293700787401349 Td
+(ï Labor-Intensive Workflow: Financial institutions must maintain extensive teams of fraud analysts to manually inspect) Tj
+T* (large queues of flagged transactions, resulting in unsustainable operational expenditure.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 421.795511811023573 Td
+(ï Susceptibility to Human Fatigue and Error: Human analysts processing hundreds of routine records daily are prone to) Tj
+T* (oversight, missing intricate non-linear attack vectors.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 384.661653543307068 Td
+(ï Inability to Calculate Calibrated Risk: Existing systems provide binary \(Pass/Fail\) outcomes rather than a nuanced,) Tj
+T* (continuous probability score that reflects the degree of suspicion.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 341.8585039370078675 Td
+(3.3 Proposed System) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 324.8506299212598378 Td
+(To overcome the structural weaknesses of the existing paradigm, this project introduces CreditGuard AI ó an) Tj
+T* (end-to-end, machine-learning-powered credit card fraud detection web application.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 287.7167716535433328 Td
+(The proposed system receives transaction telemetry via an intuitive, fintech-styled web interface, validates all incoming) Tj
+T* (inputs, derives rich temporal and geospatial features, transforms high-cardinality categorical inputs using a fitted) Tj
+T* (CatBoostEncoder, and feeds the numerical feature vector into a trained HistGradientBoostingClassifier.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 236.9766141732283131 Td
+(The classifier computes the exact posterior probability that the transaction belongs to the fraudulent class. This) Tj
+T* (probability is compared against a calibrated threshold of 0.90 to produce a definitive risk classification \(Legitimate vs.) Tj
+T* (Potentially Fraudulent\), which is rendered back to the user within milliseconds alongside comprehensive diagnostic) Tj
+T* (metrics.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 166.9608661417322537 Td
+(3.4 Advantages of Proposed System) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 149.952992125984224 Td
+(The proposed CreditGuard AI architecture offers substantial technological and operational benefits:) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 126.42543307086612 Td
+(ï Instantaneous Inference Latency: Model inference executes in under 50 milliseconds, enabling immediate transaction) Tj
+T* (evaluation.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 807.8742519685039269 Td
+(CreditGuard AI: AI-Powered Credit Card Fraud Detection System ï BCA Project Report) Tj
+ET
+0.78 G
+0.5669291338582678 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 39.6850393700787407 m
+538.5870866141731312 39.6850393700787407 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 28.3464566929134207 Td
+([College / Institute Name - To be Added]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+489.1470866141731904 28.3464566929134207 Td
+(Page 12 of 34) Tj
+ET
+endstream
+endobj
+27 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 28 0 R
+>>
+endobj
+28 0 obj
+<<
+/Length 5293
+>>
+stream
+1.7007874015748032 w
+0.78 G
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 785.1970866141732586 Td
+(ï Automated Feature Engineering: Automatically derives critical behavioral signalsósuch as customer age,) Tj
+T* (day-of-week, weekend flags, and Haversine distanceówithout manual operator intervention.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 748.0632283464566399 Td
+(ï Robust Categorical Representation: Handles complex merchant and location categories smoothly through target-aware) Tj
+T* (CatBoost encoding.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 710.9293700787401349 Td
+(ï Cost-Sensitive Optimization: Eliminates majority-class bias by training with balanced sample weights.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 687.4018110236220309 Td
+(ï False Positive Suppression: Evaluates predictions against a 0.90 threshold, ensuring only transactions with severe) Tj
+T* (anomalies are flagged as potential fraud.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 650.2679527559055259 Td
+(ï Modern Web Experience: Provides an accessible, responsive user interface requiring no specialized software) Tj
+T* (installation on client machines.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 607.4648031496062686 Td
+(3.5 Functional Requirements) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 590.4569291338582389 Td
+(The system satisfies the following specific functional requirements \(FR\):) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 566.9293700787401349 Td
+(ï FR-01: Ingestion of Transaction Data ó The system must accept transaction amount, merchant name, category,) Tj
+T* (cardholder demographic data, transaction datetime, date of birth, and geographic coordinates.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 529.7955118110236299 Td
+(ï FR-02: Input Validation and Sanitization ó The system must validate that all mandatory fields are populated,) Tj
+T* (numerical amounts are positive, and geographic coordinates conform to valid physical bounds.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 492.6616535433071249 Td
+(ï FR-03: Feature Engineering Execution ó The system must calculate transaction_hour, transaction_day,) Tj
+T* (transaction_month, transaction_day_of_week, is_weekend, customer_age, and customer_merchant_distance.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 455.5277952755905631 Td
+(ï FR-04: Categorical Encoding ó The system must encode merchant, category, gender, city, state, and job using the) Tj
+T* (fitted CatBoostEncoder.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 418.3939370078740012 Td
+(ï FR-05: Probability Estimation ó The system must invoke HistGradientBoostingClassifier.predict_proba\(\) to yield) Tj
+T* (continuous fraud probability.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 381.2600787401574962 Td
+(ï FR-06: Threshold Decision Logic ó The system must compare the computed probability against the fixed 0.90) Tj
+T* (threshold to yield a binary status classification.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 344.1262204724409912 Td
+(ï FR-07: Telemetry and Visual Feedback ó The system must display the risk badge, probability percentage meter,) Tj
+T* (decision threshold, and risk assessment breakdown.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 306.9923622047244862 Td
+(ï FR-08: Form State Reset ó The system must provide a single-click reset function to clear all inputs and return the UI) Tj
+T* (to baseline readiness.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 264.1892125984252289 Td
+(3.6 Non-Functional Requirements) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 247.1813385826771992 Td
+(ï Performance: The complete end-to-end processing pipeline must execute in under 300 milliseconds under standard) Tj
+T* (workstation hardware.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 210.0474803149606942 Td
+(ï Reliability: The backend service must handle unobserved categorical levels without crashing by utilizing default prior) Tj
+T* (distributions.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 172.9136220472441892 Td
+(ï Usability: The interface must adhere to modern accessibility and UX principles, featuring clear visual hierarchies,) Tj
+T* (glassmorphic styling, and self-explanatory risk badges.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 135.7797637795276842 Td
+(ï Security and Data Privacy: The primary 16-digit credit card number \(cc_num\) must be strictly excluded from model) Tj
+T* (feature sets and never stored in cleartext logs.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 807.8742519685039269 Td
+(CreditGuard AI: AI-Powered Credit Card Fraud Detection System ï BCA Project Report) Tj
+ET
+0.78 G
+0.5669291338582678 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 39.6850393700787407 m
+538.5870866141731312 39.6850393700787407 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 28.3464566929134207 Td
+([College / Institute Name - To be Added]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+489.1470866141731904 28.3464566929134207 Td
+(Page 13 of 34) Tj
+ET
+endstream
+endobj
+29 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 30 0 R
+>>
+endobj
+30 0 obj
+<<
+/Length 3185
+>>
+stream
+1.7007874015748032 w
+0.78 G
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 785.1970866141732586 Td
+(ï Modularity: The codebase must maintain strict decoupling between data preprocessing, machine learning models,) Tj
+T* (REST endpoints, and frontend presentation assets.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 742.3939370078740012 Td
+(3.7 Hardware Requirements) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 725.3860629921259715 Td
+(Table 3.1 delineates the minimum and recommended hardware specifications for both development/training and) Tj
+T* (deployment/client environments.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 682.5829133858267141 Td
+(3.8 Software Requirements) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 665.5750393700786844 Td
+(Table 3.2 outlines the software technologies, programming languages, and library dependencies underpinning) Tj
+T* (CreditGuard AI.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 622.7718897637795408 Td
+(3.9 Feasibility Study) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 605.7640157480313974 Td
+(A formal feasibility analysis was conducted across three essential dimensions:) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 582.2364566929134071 Td
+(1. Technical Feasibility: The project relies entirely on stable, mature open-source technologiesóPython 3.10+,) Tj
+T* (Scikit-learn, Flask, and standard web browsers. The mathematical algorithms \(HistGradientBoosting, CatBoostEncoder,) Tj
+T* (Haversine formula\) are well-documented and execute efficiently on standard commodity hardware. Therefore, technical) Tj
+T* (feasibility is fully verified.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 517.8899999999999864 Td
+(2. Economic Feasibility: The software stack is composed exclusively of free, permissive open-source libraries \(BSD and) Tj
+T* (MIT licenses\). No proprietary software licenses, cloud compute subscriptions, or paid API keys are required for) Tj
+T* (academic development and demonstration. Therefore, economic feasibility is optimal.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 467.1498425196850235 Td
+(3. Operational Feasibility: The web interface is intuitive and self-documenting. A risk investigator or academic) Tj
+T* (evaluator can operate the system immediately without specialized technical training or command-line scripting) Tj
+T* (knowledge. Hence, operational feasibility is successfully achieved.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 807.8742519685039269 Td
+(CreditGuard AI: AI-Powered Credit Card Fraud Detection System ï BCA Project Report) Tj
+ET
+0.78 G
+0.5669291338582678 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 39.6850393700787407 m
+538.5870866141731312 39.6850393700787407 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 28.3464566929134207 Td
+([College / Institute Name - To be Added]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+489.1470866141731904 28.3464566929134207 Td
+(Page 14 of 34) Tj
+ET
+endstream
+endobj
+31 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 32 0 R
+>>
+endobj
+32 0 obj
+<<
+/Length 5391
+>>
+stream
+1.7007874015748032 w
+0.78 G
+BT
+/F2 10 Tf
+11.5 TL
+0.392 g
+56.6929133858267775 771.0238582677164914 Td
+(CHAPTER 4) Tj
+ET
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 751.1813385826771992 Td
+(DATASET AND DATA PREPROCESSING) Tj
+ET
+1.7007874015748032 w
+56.6929133858267775 739.8427559055118081 m
+538.5870866141731312 739.8427559055118081 l
+S
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 711.4962992125983874 Td
+(4.1 Dataset Overview) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 694.4884251968503577 Td
+(The CreditGuard AI training pipeline utilizes a comprehensive transactional dataset loaded from dataset/train.csv. The) Tj
+T* (dataset simulates real-world credit card purchasing telemetry spanning diverse merchant categories, cardholder) Tj
+T* (demographic profiles, geographic coordinates, and temporal attributes.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 643.748267716535338 Td
+(The fundamental target variable is defined as is_fraud, represented as a binary integer flag where:) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 620.2207086614173477 Td
+(ï is_fraud = 0: Denotes a legitimate, authorized commercial transaction.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 596.69314960629913 Td
+(ï is_fraud = 1: Denotes an unauthorized, fraudulent transaction.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 573.1655905511811397 Td
+(Table 4.1 details the raw schema, column data types, and initial feature assessment.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 543.9687401574802834 Td
+(4.2 Elimination of Redundant Features and Data Leakage Prevention) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 526.9608661417322537 Td
+(To establish a disciplined predictive pipeline and safeguard against spurious correlations, specific raw columns are) Tj
+T* (immediately pruned during the initial data ingestion phase:) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 489.8270078740157487 Td
+(1. Unnamed: 0: A legacy row index artifact created during CSV file export; provides zero predictive signal.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 466.2994488188975879 Td
+(2. first and last: Cardholder given and family names. Customer names bear no causal correlation with fraudulent intent,) Tj
+T* (and their retention would lead to severe overfitting and demographic bias.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 429.1655905511810829 Td
+(3. street: Street address text contains high-entropy local strings that introduce excessive noise and sparsity.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 405.6380314960629221 Td
+(4. trans_num: A unique alphanumeric transaction identification string generated by payment gateways) Tj
+T* (post-authorization. Retaining unique random strings in an ML model creates memorization artifacts rather than) Tj
+T* (generalizable predictive patterns.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 354.8978740157479592 Td
+(5. cc_num: The primary 16-digit credit card number. As mandated by PCI-DSS privacy considerations and statistical) Tj
+T* (best practices, the card account number is completely excluded from model features.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 312.0947244094487587 Td
+(4.3 Temporal Feature Engineering) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 295.086850393700729 Td
+(Fraudulent transactions frequently exhibit strong cyclical and temporal tendencies. For instance, unauthorized account) Tj
+T* (takeover or automated script carding attacks disproportionately occur during late-night hours when cardholders are) Tj
+T* (asleep and unable to immediately notice authorization SMS notifications.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 244.3466929133857093 Td
+(From the raw datetime string trans_date_trans_time, the pipeline parses standard datetime objects and derives five) Tj
+T* (discrete temporal features:) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 207.2128346456692043 Td
+(ï transaction_hour: Extracted integer in the range [0, 23], capturing the diurnal cycle.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 183.6852755905511003 Td
+(ï transaction_day: Day of the calendar month in the range [1, 31].) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 160.1577165354328827 Td
+(ï transaction_month: Month of the year in the range [1, 12], capturing seasonal purchasing surges.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 136.6301574803147787 Td
+(ï transaction_day_of_week: Day of the week represented as an integer [0, 6], where 0 represents Monday and 6) Tj
+T* (represents Sunday.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 807.8742519685039269 Td
+(CreditGuard AI: AI-Powered Credit Card Fraud Detection System ï BCA Project Report) Tj
+ET
+0.78 G
+0.5669291338582678 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 39.6850393700787407 m
+538.5870866141731312 39.6850393700787407 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 28.3464566929134207 Td
+([College / Institute Name - To be Added]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+489.1470866141731904 28.3464566929134207 Td
+(Page 15 of 34) Tj
+ET
+endstream
+endobj
+33 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 34 0 R
+>>
+endobj
+34 0 obj
+<<
+/Length 5779
+>>
+stream
+1.7007874015748032 w
+0.78 G
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 785.1970866141732586 Td
+(ï is_weekend: Binary indicator variable set to 1 if transaction_day_of_week >= 5 \(Saturday or Sunday\), and 0) Tj
+T* (otherwise.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 742.3939370078740012 Td
+(4.4 Customer Demographic Feature Engineering) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 725.3860629921259715 Td
+(Customer age is a well-established risk correlate in financial fraud analysis, as certain age demographics \(e.g., elderly) Tj
+T* (consumers unfamiliar with digital phishing threats or younger consumers with erratic spending patterns\) exhibit distinct) Tj
+T* (vulnerability profiles.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 674.6459055118109518 Td
+(The pipeline computes customer_age dynamically by subtracting the cardholderís date of birth \(dob\) from the) Tj
+T* (transaction timestamp \(trans_date_trans_time\), dividing the resulting duration by 365.25 days to yield fractional years:) Tj
+ET
+0.96 0.97 0.98 rg
+56.6929133858267775 646.0159842519684616 481.8941732283464034 -24.0944881889763813 re
+f
+BT
+/F5 8.5 Tf
+9.7749999999999986 TL
+0.118 g
+68.031496062992133 634.6774015748030706 Td
+(customer_age = \(trans_date_trans_time - dob\).dt.days / 365.25) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 607.7482677165354517 Td
+(Following this calculation, the raw datetime columns trans_date_trans_time and dob are permanently discarded to) Tj
+T* (ensure all model inputs remain strictly numerical or encoded categorical representations.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 564.9451181102361943 Td
+(4.5 Geospatial Feature Engineering via Haversine Formula) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 547.9372440944881646 Td
+(A cornerstone of the feature engineering pipeline is the quantification of geographical distance between the cardholderís) Tj
+T* (home residence and the physical point of merchant authorization.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 510.8033858267716596 Td
+(The raw dataset provides the cardholderís latitude and longitude \(lat, long\) alongside the merchantís geographic) Tj
+T* (coordinates \(merch_lat, merch_long\). To compute the true spherical surface distance across the Earthís curvature,) Tj
+T* (CreditGuard AI implements the Haversine distance formula:) Tj
+ET
+0.96 0.97 0.98 rg
+56.6929133858267775 468.5671653543306547 481.8941732283464034 -24.0944881889763813 re
+f
+BT
+/F5 8.5 Tf
+9.7749999999999986 TL
+0.118 g
+68.031496062992133 457.2285826771653205 Td
+( a   =   s i n ≤ \(î∆   /   2 \)   +   c o s \(∆ Å \)   ∑   c o s \(∆ Ç \)   ∑   s i n ≤ \(îª   /   2 \)) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 430.2994488188975879 Td
+( c   =   2   ∑   a t a n 2 \(" a ,  " \( 1   -   a \) \)) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 406.7718897637794839 Td
+(customer_merchant_distance = R ∑ c) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 383.2443307086613231 Td
+( W h e r e  ∆ Å   a n d  ∆ Ç   r e p r e s e n t   t h e   c a r d h o l d e r   a n d   m e r c h a n t   l a t i t u d e s   i n   r a d i a n s ,  î∆   a n d  îª   r e p r e s e n t   t h e   d i f f e r e n c e s   i n) Tj
+T* (latitude and longitude in radians, and R represents the mean radius of the Earth \(approximated as 6,371.0 kilometers\).) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 346.1104724409448181 Td
+(The resulting feature, customer_merchant_distance, provides an indispensable physical anomaly signal: a physical) Tj
+T* (transaction executed 3,000 kilometers from a customerís registered residence within minutes of a domestic purchase) Tj
+T* (presents an overwhelming indicator of potential fraud.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 289.7010236220471597 Td
+(4.6 Categorical Feature Identification and Transformation Needs) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 272.69314960629913 Td
+(Following data cleansing and feature generation, the dataset retains six high-cardinality categorical attributes:) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 249.1655905511809124 Td
+(ï merchant: The commercial business name where authorization was requested \(e.g., fraud_Rippin, fraud_Kirlin\).) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 225.6380314960628084 Td
+(ï category: The merchant business category \(e.g., grocery_pos, gas_transport, shopping_net, travel, entertainment\).) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 202.1104724409447044 Td
+(ï gender: Biological sex identifier of the cardholder \(M, F\).) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 178.5829133858264868 Td
+(ï city: Registered home municipality of the cardholder.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 155.0553543307083828 Td
+(ï state: Two-letter state or administrative division code.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 131.5277952755902788 Td
+(ï job: Cardholder professional occupation.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 807.8742519685039269 Td
+(CreditGuard AI: AI-Powered Credit Card Fraud Detection System ï BCA Project Report) Tj
+ET
+0.78 G
+0.5669291338582678 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 39.6850393700787407 m
+538.5870866141731312 39.6850393700787407 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 28.3464566929134207 Td
+([College / Institute Name - To be Added]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+489.1470866141731904 28.3464566929134207 Td
+(Page 16 of 34) Tj
+ET
+endstream
+endobj
+35 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 36 0 R
+>>
+endobj
+36 0 obj
+<<
+/Length 2677
+>>
+stream
+1.7007874015748032 w
+0.78 G
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 785.1970866141732586 Td
+(Because gradient boosting algorithms require real-valued numerical matrices, these non-numerical variables must be) Tj
+T* (converted without introducing the computational explosion associated with one-hot encoding.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 742.3939370078740012 Td
+(4.7 Target-Aware CatBoost Encoding) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 725.3860629921259715 Td
+(To encode these high-cardinality categorical variables, the pipeline utilizes CatBoostEncoder from the) Tj
+T* (category_encoders library. CatBoost encoding is a target-based encoder that addresses the fatal limitation of standard) Tj
+T* (target encoding \(namely, catastrophic target leakage and overfitting on small sample sizes\).) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 674.6459055118109518 Td
+(The mathematical formulation calculates the expected target value for category level k as follows:) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 651.1183464566928478 Td
+( x _ k   =   \( c o u n t _ i n _ c l a s s _ w i t h _ t a r g e t _ 1   +   p r i o r \)   /   \( t o t a l _ c o u n t _ i n _ c l a s s   +   1 \)) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 627.5907874015747439 Td
+(Where the prior represents the global target mean across the entire training dataset. In CatBoost encoding, the) Tj
+T* (calculation is performed sequentially over an ordered permutation of the training set. This ensures that the encoded) Tj
+T* (value for a given sample depends only on observed instances preceding it, completely preventing future target values) Tj
+T* (from contaminating current feature representations.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 563.2443307086614368 Td
+(The fitted CatBoostEncoder is fitted solely on the training feature matrix and serialized as model/catboost_encoder.pkl) Tj
+T* (for deterministic inference during deployment.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 807.8742519685039269 Td
+(CreditGuard AI: AI-Powered Credit Card Fraud Detection System ï BCA Project Report) Tj
+ET
+0.78 G
+0.5669291338582678 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 39.6850393700787407 m
+538.5870866141731312 39.6850393700787407 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 28.3464566929134207 Td
+([College / Institute Name - To be Added]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+489.1470866141731904 28.3464566929134207 Td
+(Page 17 of 34) Tj
+ET
+endstream
+endobj
+37 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 38 0 R
+>>
+endobj
+38 0 obj
+<<
+/Length 5577
+>>
+stream
+1.7007874015748032 w
+0.78 G
+BT
+/F2 10 Tf
+11.5 TL
+0.392 g
+56.6929133858267775 771.0238582677164914 Td
+(CHAPTER 5) Tj
+ET
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 751.1813385826771992 Td
+(EXPLORATORY DATA ANALYSIS) Tj
+ET
+1.7007874015748032 w
+56.6929133858267775 739.8427559055118081 m
+538.5870866141731312 739.8427559055118081 l
+S
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 711.4962992125983874 Td
+(5.1 Overview of Exploratory Analysis) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 694.4884251968503577 Td
+(Exploratory Data Analysis \(EDA\) constitutes an indispensable preliminary phase in any applied data science project.) Tj
+T* (Through systematic statistical summarization and visualization, EDA reveals the underlying distributional properties of) Tj
+T* (the feature space, identifies outliers, exposes class imbalances, and validates feature engineering hypotheses before) Tj
+T* (model training.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 630.1419685039369369 Td
+(In alignment with academic guidelines, this chapter presents the theoretical framework and visual placeholders for the) Tj
+T* (analytical charts examined during the development of CreditGuard AI.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 587.3388188976377933 Td
+(5.2 Class Distribution and Imbalance Analysis) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 570.3309448818897636 Td
+(The primary analytical inquiry centers on the ratio between legitimate transactions \(is_fraud = 0\) and fraudulent) Tj
+T* (transactions \(is_fraud = 1\). In the training distribution, legitimate transactions constitute the vast majority of records,) Tj
+T* (whereas fraudulent cases represent a minute minority fraction.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 519.5907874015747439 Td
+(This severe visual skew is illustrated in Figure 5.1. The visualization underscores why uncalibrated models easily fail by) Tj
+T* (predicting the majority class exclusively.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 476.7876377952756002 Td
+(5.3 Transaction Amount Distribution by Class) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 459.7797637795275705 Td
+(Analyzing the numerical distribution of the transaction amount \(amt\) across both classes reveals distinct behavioral) Tj
+T* (patterns. Legitimate transactions typically follow a right-skewed log-normal distribution clustered between $10 and) Tj
+T* ($150, reflecting routine grocery, dining, and utility purchases.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 409.0396062992125508 Td
+(In contrast, fraudulent transactions exhibit bi-modal peaks: one concentrated at small amounts \(representing automated) Tj
+T* (card-testing authorizations\) and a second prominent surge at extreme amounts \($800 to $3,000+\), corresponding to) Tj
+T* (rapid balance depletion prior to card cancellation. Figure 5.2 outlines this distribution comparison.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 352.6301574803148924 Td
+(5.4 Temporal Fraud Patterns) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 335.6222834645668627 Td
+(Examining fraud frequency against transaction_hour demonstrates that unauthorized transactions spike sharply during) Tj
+T* (early morning hours \(between 10:00 PM and 4:00 AM\). During these windows, human cardholders are less likely to) Tj
+T* (monitor push notifications.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 284.882125984251843 Td
+(Furthermore, analyzing transaction_day_of_week and is_weekend indicates elevated fraud rates over weekend periods,) Tj
+T* (when retail banking customer service departments experience reduced staffing. Figure 5.3 depicts these temporal) Tj
+T* (dynamics.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 228.4726771653541846 Td
+(5.5 Demographic Distribution and Customer Age) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 211.4648031496061549 Td
+(The customer_age feature demonstrates notable variations across transaction outcomes. While legitimate purchasing) Tj
+T* (activity spans an even bell curve from ages 20 to 75, fraudulent events reflect localized vulnerabilities in specific) Tj
+T* (demographic brackets. Figure 5.4 provides the comparative demographic distribution.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 155.0553543307084965 Td
+(5.6 Geographic Distance Patterns) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 138.0474803149604668 Td
+(The customer_merchant_distance metric derived via the Haversine equation serves as one of the most potent) Tj
+T* (discriminative features. For legitimate point-of-sale transactions, distance is tightly clustered within a 5-to-25 kilometer) Tj
+T* (radius of the cardholder home.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 807.8742519685039269 Td
+(CreditGuard AI: AI-Powered Credit Card Fraud Detection System ï BCA Project Report) Tj
+ET
+0.78 G
+0.5669291338582678 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 39.6850393700787407 m
+538.5870866141731312 39.6850393700787407 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 28.3464566929134207 Td
+([College / Institute Name - To be Added]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+489.1470866141731904 28.3464566929134207 Td
+(Page 18 of 34) Tj
+ET
+endstream
+endobj
+39 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 40 0 R
+>>
+endobj
+40 0 obj
+<<
+/Length 2192
+>>
+stream
+1.7007874015748032 w
+0.78 G
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 785.1970866141732586 Td
+(Fraudulent point-of-sale transactions frequently exhibit vast geographical distances \(hundreds or thousands of) Tj
+T* (kilometers\), indicating cloned cards or compromised virtual credentials utilized far outside the consumerís domestic) Tj
+T* (radius. Figure 5.5 visualizes this distribution.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 728.7876377952756002 Td
+(5.7 Merchant Spending Category Analysis) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 711.7797637795275705 Td
+(Evaluating fraud rates across the category feature indicates that fraud does not affect all commercial sectors equally.) Tj
+T* (Categories such as shopping_net \(online retail\), travel, and luxury entertainment experience significantly higher fraud) Tj
+T* (ratios than utilities or grocery_pos.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 661.0396062992125508 Td
+(Figure 5.6 illustrates the relative fraud risk index across all evaluated merchant categories.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 631.8427559055118081 Td
+(5.8 High-Cardinality Categorical Variations) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 614.8348818897637784 Td
+(Figure 5.7 highlights the long-tail frequency distribution across high-cardinality merchant names and occupational jobs,) Tj
+T* (visually validating the necessity of CatBoost target encoding over standard one-hot representations.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 807.8742519685039269 Td
+(CreditGuard AI: AI-Powered Credit Card Fraud Detection System ï BCA Project Report) Tj
+ET
+0.78 G
+0.5669291338582678 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 39.6850393700787407 m
+538.5870866141731312 39.6850393700787407 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 28.3464566929134207 Td
+([College / Institute Name - To be Added]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+489.1470866141731904 28.3464566929134207 Td
+(Page 19 of 34) Tj
+ET
+endstream
+endobj
+41 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 42 0 R
+>>
+endobj
+42 0 obj
+<<
+/Length 5589
+>>
+stream
+1.7007874015748032 w
+0.78 G
+BT
+/F2 10 Tf
+11.5 TL
+0.392 g
+56.6929133858267775 771.0238582677164914 Td
+(CHAPTER 6) Tj
+ET
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 751.1813385826771992 Td
+(MACHINE LEARNING METHODOLOGY) Tj
+ET
+1.7007874015748032 w
+56.6929133858267775 739.8427559055118081 m
+538.5870866141731312 739.8427559055118081 l
+S
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 711.4962992125983874 Td
+(6.1 Feature Engineering Pipeline) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 694.4884251968503577 Td
+(The machine learning methodology implemented in CreditGuard AI transforms raw transactional telemetry into an) Tj
+T* (information-dense, numerical feature matrix. The final feature set comprises:) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 657.3545669291338527 Td
+(1. Transaction Amount \(amt\): Continuous monetary magnitude of the purchase.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 633.8270078740157487 Td
+(2. Temporal Attributes: transaction_hour, transaction_day, transaction_month, transaction_day_of_week, and) Tj
+T* (is_weekend derived from trans_date_trans_time.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 596.6931496062992437 Td
+(3. Customer Age: customer_age derived from dob and trans_date_trans_time.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 573.1655905511811397 Td
+(4. Haversine Distance: customer_merchant_distance computed between \(lat, long\) and \(merch_lat, merch_long\).) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 549.6380314960629221 Td
+(5. Target-Encoded Features: merchant, category, gender, city, state, and job transformed into real-valued continuous) Tj
+T* (dimensions via CatBoostEncoder.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 506.8348818897637784 Td
+(6.2 Categorical Encoding with CatBoostEncoder) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 489.8270078740157487 Td
+(The mathematical formulation of CatBoost target encoding incorporates Bayesian smoothing with a prior estimate:) Tj
+ET
+0.96 0.97 0.98 rg
+56.6929133858267775 474.8033858267716596 481.8941732283464034 -24.0944881889763813 re
+f
+BT
+/F5 8.5 Tf
+9.7749999999999986 TL
+0.118 g
+68.031496062992133 463.4648031496063254 Td
+( S _ i   =   \(" _ { j   <   i ,   x _ j   =   x _ i }   y _ j   +   a   ∑   p \)   /   \(" _ { j   <   i ,   x _ j   =   x _ i }   1   +   a \)) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 436.5356692913385928 Td
+(Where y_j is the target label, p is the empirical prior \(global mean of is_fraud across the training set\), and a is a) Tj
+T* (regularization weight parameter. This technique ensures that even rare categories \(such as obscure merchants appearing) Tj
+T* (only twice\) receive stable, regularized estimates shrinking toward the population mean rather than producing erratic) Tj
+T* (extreme values.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 366.5199212598425902 Td
+(6.3 Class Imbalance Handling via Balanced Sample Weighting) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 349.5120472440945605 Td
+(Because fraudulent transactions represent a minute proportion of all transactions, fitting an unweighted tree ensemble) Tj
+T* (causes the loss function to overlook the minority fraud class. To remediate this without distorting the data distribution) Tj
+T* (through artificial oversampling, the training script computes balanced sample weights using Scikit-learn:) Tj
+ET
+0.96 0.97 0.98 rg
+56.6929133858267775 307.2758267716535556 481.8941732283464034 -24.0944881889763813 re
+f
+BT
+/F5 8.5 Tf
+9.7749999999999986 TL
+0.118 g
+68.031496062992133 295.9372440944881646 Td
+(from sklearn.utils.class_weight import compute_sample_weight) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 269.0081102362205456 Td
+(sample_weights = compute_sample_weight\(class_weight="balanced", y=y_train\)) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 245.480551181102328 Td
+(The sample weight w_i assigned to observation i belonging to class j is defined mathematically as:) Tj
+ET
+0.96 0.97 0.98 rg
+56.6929133858267775 230.4569291338582104 481.8941732283464034 -24.0944881889763813 re
+f
+BT
+/F5 8.5 Tf
+9.7749999999999986 TL
+0.118 g
+68.031496062992133 219.1183464566928478 Td
+(w_j = n_samples / \(n_classes ∑ n_samples_j\)) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 192.1892125984251152 Td
+(Where n_samples is the total count of training instances, n_classes = 2, and n_samples_j is the frequency of class j.) Tj
+T* (Consequently, each rare fraudulent transaction receives a substantial loss multiplier during tree splitting, forcing the) Tj
+T* (booster to treat fraud misses with high severity.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 135.7797637795274568 Td
+(6.4 Final Machine Learning Model: HistGradientBoostingClassifier) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 807.8742519685039269 Td
+(CreditGuard AI: AI-Powered Credit Card Fraud Detection System ï BCA Project Report) Tj
+ET
+0.78 G
+0.5669291338582678 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 39.6850393700787407 m
+538.5870866141731312 39.6850393700787407 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 28.3464566929134207 Td
+([College / Institute Name - To be Added]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+489.1470866141731904 28.3464566929134207 Td
+(Page 20 of 34) Tj
+ET
+endstream
+endobj
+43 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 44 0 R
+>>
+endobj
+44 0 obj
+<<
+/Length 4742
+>>
+stream
+1.7007874015748032 w
+0.78 G
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 785.1970866141732586 Td
+(The predictive core of CreditGuard AI is Scikit-learnís HistGradientBoostingClassifier. The model constructs an) Tj
+T* (additive expansion of regression trees to minimize binary cross-entropy \(logistic loss\):) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 748.0632283464566399 Td
+( L \( y ,   F \( x \) \)   =  "   [   y _ i   l o g \( 1   +   e ^ { - F \( x _ i \) } \)   +   \( 1   -   y _ i \)   l o g \( 1   +   e ^ { F \( x _ i \) } \)   ]) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 724.5356692913385359 Td
+(Conceptually, the algorithm bins continuous features into 256 discrete integer bins. At each boosting iteration, it) Tj
+T* (computes first-order gradients and second-order hessians for all observations, accumulates them into histogram bins,) Tj
+T* (and identifies optimal split thresholds in constant time proportional to the number of bins rather than the number of) Tj
+T* (samples.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 660.1892125984251152 Td
+(Table 6.1 specifies the exact, tuned hyperparameters utilized in the final production model pipeline.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 630.9923622047243725 Td
+(6.5 Fraud Decision Threshold Configuration \(Threshold = 0.90\)) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 613.9844881889763428 Td
+(Standard binary classification implementations assign class labels based on a default 0.50 probability cutoff \(i.e., if) Tj
+T* (P\(Fraud\) >= 0.50, flag as fraud\). However, in financial risk systems, a 0.50 threshold frequently leads to an) Tj
+T* (unacceptable volume of false positives, irritating valuable cardholders and overwhelming operational review desks.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 563.2443307086613231 Td
+(To ensure that only transactions exhibiting overwhelming anomalies and extreme statistical deviation are flagged as) Tj
+T* (fraud, CreditGuard AI adopts a strict probability decision threshold of 0.90:) Tj
+ET
+0.96 0.97 0.98 rg
+56.6929133858267775 534.614409448818833 481.8941732283464034 -24.0944881889763813 re
+f
+BT
+/F5 8.5 Tf
+9.7749999999999986 TL
+0.118 g
+68.031496062992133 523.2758267716535556 Td
+(Final Prediction = "Potentially Fraudulent" if P\(is_fraud = 1\) >= 0.90 else "Legitimate") Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 496.3466929133857661 Td
+(Academic Clarification: It is essential to emphasize that the 0.90 threshold is a project-specific architectural) Tj
+T* (configuration chosen for this BCA demonstration to demonstrate high-confidence risk screening. It should not be) Tj
+T* (construed as a universal financial industry standard, as institutional risk appetites vary across merchant tiers and) Tj
+T* (banking jurisdictions.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 426.3309448818897067 Td
+(6.6 Model Serialization and Persistence) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 409.323070866141677 Td
+(To enable real-time inference within the Flask web application without re-running time-consuming training loops, all) Tj
+T* (pipeline artifacts are serialized to disk using Joblib:) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 372.189212598425172 Td
+(ï model/catboost_encoder.pkl: The fitted CatBoost encoder preserving target mappings for all categorical levels.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 348.6616535433070112 Td
+(ï model/final_fraud_model.pkl: The trained HistGradientBoostingClassifier containing all tree structures and leaf) Tj
+T* (weights.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 311.5277952755905062 Td
+(ï model/fraud_threshold.pkl: Serialized numerical float \(0.90\) ensuring centralized threshold management.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 288.0002362204724022 Td
+(During server initialization, Flask deserializes these artifacts directly into RAM, enabling sub-millisecond execution) Tj
+T* (during incoming HTTP requests.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 807.8742519685039269 Td
+(CreditGuard AI: AI-Powered Credit Card Fraud Detection System ï BCA Project Report) Tj
+ET
+0.78 G
+0.5669291338582678 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 39.6850393700787407 m
+538.5870866141731312 39.6850393700787407 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 28.3464566929134207 Td
+([College / Institute Name - To be Added]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+489.1470866141731904 28.3464566929134207 Td
+(Page 21 of 34) Tj
+ET
+endstream
+endobj
+45 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 46 0 R
+>>
+endobj
+46 0 obj
+<<
+/Length 5578
+>>
+stream
+1.7007874015748032 w
+0.78 G
+BT
+/F2 10 Tf
+11.5 TL
+0.392 g
+56.6929133858267775 771.0238582677164914 Td
+(CHAPTER 7) Tj
+ET
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 751.1813385826771992 Td
+(SYSTEM DESIGN) Tj
+ET
+1.7007874015748032 w
+56.6929133858267775 739.8427559055118081 m
+538.5870866141731312 739.8427559055118081 l
+S
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 711.4962992125983874 Td
+(7.1 System Architecture) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 694.4884251968503577 Td
+(The architecture of CreditGuard AI follows a modular, decoupled client-server paradigm. The system architecture) Tj
+T* (diagram traces data propagation across distinct application layers:) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 657.3545669291338527 Td
+(1. Presentation Layer \(Browser Client\): Responsive web interface featuring glassmorphic design, data input forms,) Tj
+T* (visual probability gauges, and asynchronous Fetch controllers.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 620.2207086614173477 Td
+(2. Service Layer \(Flask Web Framework\): Microservice backend responsible for routing, CORS management, request) Tj
+T* (validation, and JSON payload serialization.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 583.0868503937008427 Td
+(3. Transformation Layer \(Feature Engineering & Preprocessing\): Modular functions that parse datetimes, compute) Tj
+T* (Haversine distances, derive customer age, and apply CatBoost encoding.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 545.9529921259843377 Td
+(4. Inference Engine Layer: Serialized HistGradientBoostingClassifier calculating calibrated probabilities.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 522.42543307086612 Td
+(5. Decision Layer: Comparison against threshold = 0.90 yielding final risk status.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 498.8978740157480729 Td
+(Textual Architectural Flow Diagram:) Tj
+ET
+0.96 0.97 0.98 rg
+56.6929133858267775 483.8742519685039269 481.8941732283464034 -24.0944881889763813 re
+f
+BT
+/F5 8.5 Tf
+9.7749999999999986 TL
+0.118 g
+68.031496062992133 472.5356692913385928 Td
+( U s e r   [ B r o w s e r   I n t e r f a c e ]  % %  \( H T T P   P O S T   J S O N \)% %  >   F l a s k   B a c k e n d   [ a p p . p y ]) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 445.6065354330708601 Td
+(                                                                                                      %) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 422.0789763779526993 Td
+(                                                                                                      %º) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 398.5514173228345953 Td
+(                                      Input Validation & Sanitization) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 375.0238582677164345 Td
+(                                                                                                      %) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 351.4962992125982737 Td
+(                                                                                                      %º) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 327.9687401574801697 Td
+(                                     Feature Engineering Pipeline) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 304.4411811023619521 Td
+(                                     \(Haversine Distance, Age, Time\)) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 280.9136220472438481 Td
+(                                                                                                      %) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 257.3860629921257441 Td
+(                                                                                                      %º) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 233.8585039370075265 Td
+(                                     CatBoost Categorical Encoder) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 210.3309448818894225 Td
+(                                                                                                      %) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 186.8033858267713185 Td
+(                                                                                                      %º) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 163.2758267716531009 Td
+(                                    HistGradientBoosting Classifier) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 139.7482677165349969 Td
+(                                                                                                      %) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 116.2207086614168929 Td
+(                                                                                                      %º) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 807.8742519685039269 Td
+(CreditGuard AI: AI-Powered Credit Card Fraud Detection System ï BCA Project Report) Tj
+ET
+0.78 G
+0.5669291338582678 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 39.6850393700787407 m
+538.5870866141731312 39.6850393700787407 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 28.3464566929134207 Td
+([College / Institute Name - To be Added]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+489.1470866141731904 28.3464566929134207 Td
+(Page 22 of 34) Tj
+ET
+endstream
+endobj
+47 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 48 0 R
+>>
+endobj
+48 0 obj
+<<
+/Length 5708
+>>
+stream
+1.7007874015748032 w
+0.78 G
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 785.1970866141732586 Td
+(                                       P\(Fraud\) Probability Vector) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 761.6695275590550409 Td
+(                                                                                                      %) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 738.1419685039369369 Td
+(                                                                                                      %º) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 714.614409448818833 Td
+(                                       Threshold Logic \(0.90\)) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 691.086850393700729 Td
+(                                                                                                      %) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 667.559291338582625 Td
+(                                                                                                      %º) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 644.0317322834645211 Td
+(                                     JSON Result [Status, Prob, Risk]) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 620.5041732283464171 Td
+(                                                                                                      %) Tj
+ET
+0.96 0.97 0.98 rg
+56.6929133858267775 605.480551181102328 481.8941732283464034 -24.0944881889763813 re
+f
+BT
+/F5 8.5 Tf
+9.7749999999999986 TL
+0.118 g
+68.031496062992133 594.1419685039370506 Td
+( U s e r   [ B r o w s e r   I n t e r f a c e ]   <% %  \( H T T P   R e s p o n s e   J S O N \)% % % %) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 561.5435433070865656 Td
+(7.2 Data Flow Diagrams \(DFD\)) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 544.5356692913385359 Td
+(ï Level 0 DFD \(Context Diagram\): Represents the system as a singular process. The external entity \(User / Risk) Tj
+T* (Analyst\) provides raw transaction parameters to the CreditGuard AI System, which processes the inputs and outputs a) Tj
+T* (structured Fraud Risk Report.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 493.7955118110236299 Td
+(ï Level 1 DFD: Decomposes the primary process into five discrete sub-processes: \(1.0 Ingest & Validate Input\), \(2.0) Tj
+T* (Derive Temporal & Spatial Features\), \(3.0 Apply CatBoost Transformation\), \(4.0 Compute Model Probability\), and \(5.0) Tj
+T* (Evaluate Threshold & Generate Response\).) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 437.3860629921259715 Td
+(7.3 Use Case Diagram) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 420.3781889763779418 Td
+(The system identifies two primary user personas: the General User / Cardholder and the Financial Risk Investigator.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 396.850629921259781 Td
+(Identified Use Cases include: Enter Transaction Information, Validate Coordinates and Form Fields, Submit for) Tj
+T* (Automated Analysis, Review Fraud Probability & Risk Badge, Inspect Feature Telemetry, and Reset Form Fields.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 354.0474803149605805 Td
+(7.4 Activity Diagram) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 337.0396062992125508 Td
+(The activity sequence begins when the user accesses the web application. The user fills the transaction fields and clicks) Tj
+T* ("Analyze Transaction". The frontend performs immediate boundary checks. Upon submission, Flask receives the POST) Tj
+T* (request, triggers the feature calculation pipeline, applies CatBoost encoding, passes the engineered vector to) Tj
+T* (HistGradientBoostingClassifier, evaluates the 0.90 threshold, and returns the response for dynamic DOM rendering.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 267.0238582677164914 Td
+(7.5 System Workflow) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 250.0159842519684616 Td
+(The complete transactional execution sequence is rigorously formalized in sequential phases:) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 226.4884251968503577 Td
+(Phase 1: Client Ingestion ó Captures 14 distinct parameters \(amount, merchant, category, customer coordinates,) Tj
+T* (merchant coordinates, timestamps, demographics\).) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 189.3545669291338527 Td
+(Phase 2: Validation ó Ensures non-null values, checks valid geographical intervals \(-90 to +90 lat, -180 to +180 long\),) Tj
+T* (and validates positive monetary values.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 152.220708661417234 Td
+(Phase 3: Mathematical Synthesis ó Executes Haversine equation and datetime delta arithmetic.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 128.69314960629913 Td
+(Phase 4: Transformation ó Applies serialized CatBoostEncoder artifact to map categorical strings to real numbers.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 807.8742519685039269 Td
+(CreditGuard AI: AI-Powered Credit Card Fraud Detection System ï BCA Project Report) Tj
+ET
+0.78 G
+0.5669291338582678 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 39.6850393700787407 m
+538.5870866141731312 39.6850393700787407 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 28.3464566929134207 Td
+([College / Institute Name - To be Added]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+489.1470866141731904 28.3464566929134207 Td
+(Page 23 of 34) Tj
+ET
+endstream
+endobj
+49 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 50 0 R
+>>
+endobj
+50 0 obj
+<<
+/Length 1191
+>>
+stream
+1.7007874015748032 w
+0.78 G
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 785.1970866141732586 Td
+(Phase 5: Inference ó Calls predict_proba\(\), extracting class 1 probability.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 761.6695275590550409 Td
+(Phase 6: Decision Gate ó Compares probability against 0.90 cutoff.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 738.1419685039369369 Td
+(Phase 7: Response Dispatch ó Emits HTTP 200 JSON object containing prediction status, raw probability, rounded) Tj
+T* (percentage, and risk level badge.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 807.8742519685039269 Td
+(CreditGuard AI: AI-Powered Credit Card Fraud Detection System ï BCA Project Report) Tj
+ET
+0.78 G
+0.5669291338582678 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 39.6850393700787407 m
+538.5870866141731312 39.6850393700787407 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 28.3464566929134207 Td
+([College / Institute Name - To be Added]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+489.1470866141731904 28.3464566929134207 Td
+(Page 24 of 34) Tj
+ET
+endstream
+endobj
+51 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 52 0 R
+>>
+endobj
+52 0 obj
+<<
+/Length 5258
+>>
+stream
+1.7007874015748032 w
+0.78 G
+BT
+/F2 10 Tf
+11.5 TL
+0.392 g
+56.6929133858267775 771.0238582677164914 Td
+(CHAPTER 8) Tj
+ET
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 751.1813385826771992 Td
+(IMPLEMENTATION) Tj
+ET
+1.7007874015748032 w
+56.6929133858267775 739.8427559055118081 m
+538.5870866141731312 739.8427559055118081 l
+S
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 711.4962992125983874 Td
+(8.1 Technological Architecture and Stack) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 694.4884251968503577 Td
+(The system implementation is partitioned cleanly across backend, machine learning, and frontend subsystems:) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 670.9608661417322537 Td
+(ï Python 3.10+: Core programming language chosen for its rich ecosystem of mathematical and data science libraries.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 647.4333070866141497 Td
+(ï Flask: Lightweight WSGI web application framework chosen for its minimal footprint and seamless integration with) Tj
+T* (Python object models.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 610.2994488188976447 Td
+(ï Pandas & NumPy: High-performance data manipulation and vectorized linear algebra operations.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 586.7718897637795408 Td
+(ï Scikit-learn: Provides the HistGradientBoostingClassifier implementation and sample weighting utilities.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 563.2443307086614368 Td
+(ï Category Encoders: Powers the target-aware CatBoostEncoder.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 539.7167716535433328 Td
+(ï Joblib: Optimized serialization library specialized for NumPy-backed scikit-learn estimators.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 516.1892125984252289 Td
+(ï HTML5 & Modern CSS3: Custom glassmorphism, responsive CSS grid, flexbox, and animated neon risk accents.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 492.6616535433071249 Td
+(ï Vanilla JavaScript \(ES6+\): Client-side event management and asynchronous Fetch API handling without external) Tj
+T* (bulky JavaScript frameworks.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 449.8585039370078675 Td
+(8.2 Application Directory Organization) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 432.8506299212598378 Td
+(Table 8.1 details the structured layout of the project codebase, illustrating the modular division of training scripts, static) Tj
+T* (web assets, serialized models, and application endpoints.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 390.0474803149606373 Td
+(8.3 Flask REST API Implementation \(app.py\)) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 373.0396062992126076 Td
+(The primary application entry point is app.py. During server bootstrap, Flask loads the three serialized artifacts into) Tj
+T* (memory:) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 335.9057480314961026 Td
+(encoder = joblib.load\("model/catboost_encoder.pkl"\)) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 312.3781889763779418 Td
+(model = joblib.load\("model/final_fraud_model.pkl"\)) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 288.8506299212598378 Td
+(threshold = joblib.load\("model/fraud_threshold.pkl"\)) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 265.3230708661416202 Td
+(The application defines two primary routes: GET / \(rendering the main dashboard\) and POST /predict \(consuming) Tj
+T* (JSON payloads, running feature engineering, evaluating probabilities, and returning the structured decision\).) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 222.5199212598424765 Td
+(8.4 Client-Side Interactivity \(static/js/app.js\)) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 205.5120472440944468 Td
+(The client-side logic avoids unnecessary framework bloat by utilizing modern Vanilla JavaScript. When the "Analyze) Tj
+T* (Transaction" button is clicked, app.js prevents default form submission, serializes form fields into a JSON payload,) Tj
+T* (triggers an animated pulse loader on the UI, and issues an asynchronous fetch request to /predict.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 154.7718897637794271 Td
+(Upon receiving the JSON response, app.js updates the DOM dynamically, animating the risk meter, coloring the risk) Tj
+T* (badge \(green for Legitimate, crimson red for Potentially Fraudulent\), and displaying exact probability telemetry.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 807.8742519685039269 Td
+(CreditGuard AI: AI-Powered Credit Card Fraud Detection System ï BCA Project Report) Tj
+ET
+0.78 G
+0.5669291338582678 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 39.6850393700787407 m
+538.5870866141731312 39.6850393700787407 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 28.3464566929134207 Td
+([College / Institute Name - To be Added]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+489.1470866141731904 28.3464566929134207 Td
+(Page 25 of 34) Tj
+ET
+endstream
+endobj
+53 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 54 0 R
+>>
+endobj
+54 0 obj
+<<
+/Length 4260
+>>
+stream
+1.7007874015748032 w
+0.78 G
+BT
+/F2 10 Tf
+11.5 TL
+0.392 g
+56.6929133858267775 771.0238582677164914 Td
+(CHAPTER 9) Tj
+ET
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 751.1813385826771992 Td
+(USER INTERFACE) Tj
+ET
+1.7007874015748032 w
+56.6929133858267775 739.8427559055118081 m
+538.5870866141731312 739.8427559055118081 l
+S
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 711.4962992125983874 Td
+(9.1 Visual Design Philosophy and Aesthetics) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 694.4884251968503577 Td
+(CreditGuard AI adopts a cutting-edge "Dark Fintech / Glassmorphism" visual aesthetic. Financial risk applications) Tj
+T* (operate in data-intensive environments where visual fatigue is common. The interface utilizes a deep slate-to-navy) Tj
+T* (background palette \(#0B0F19 to #1E293B\) accented by translucent glass panels, subtle border glows, high-contrast) Tj
+T* (typography, and vibrant status badges.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 630.1419685039369369 Td
+(This visual hierarchy directs immediate investigator focus toward primary risk vectors, ensuring critical alerts stand out) Tj
+T* (distinctly.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 587.3388188976377933 Td
+(9.2 Interface Component Breakdown) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 570.3309448818897636 Td
+(The user interface comprises five cohesive sections:) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 546.8033858267715459 Td
+(1. Header & Security Status: Prominently features the CreditGuard AI branding, system version, and an active green) Tj
+T* (pulse indicator affirming model readiness.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 509.6695275590550978 Td
+(2. Transaction Input Form: Structured into logical card groupingsóCard Details \(masked card number\), Transaction) Tj
+T* (Information \(amount, merchant, category, timestamp\), Cardholder Demographics \(gender, date of birth, occupation\),) Tj
+T* (and Geographic Coordinates \(cardholder vs merchant coordinates\).) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 458.9293700787401349 Td
+(3. Action Button Group: Contains the primary glowing "Analyze Transaction" execution button and a secondary "Reset) Tj
+T* (Form" button.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 421.795511811023573 Td
+(4. Fraud Analysis Result Panel: Displays the definitive classification badge, an animated percentage probability meter,) Tj
+T* (calibrated 0.90 threshold indicator, and a diagnostic summary.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 384.661653543307068 Td
+(5. System Architecture Cards: Informative footer cards highlighting active model specifications \(HistGradientBoosting,) Tj
+T* (CatBoost Encoding, Balanced Sample Weighting\).) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 341.8585039370078675 Td
+(9.3 User Interface Visual Documentation) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 324.8506299212598378 Td
+(The following visual placeholders document the interface screens developed in the project:) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 301.3230708661417339 Td
+(Figure 9.1 ó CreditGuard AI Home Interface [Screenshot to be Added]) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 277.7955118110235162 Td
+(Figure 9.2 ó Transaction Input Form [Screenshot to be Added]) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 254.2679527559054122 Td
+(Figure 9.3 ó Fraud Detection Result [Screenshot to be Added]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 807.8742519685039269 Td
+(CreditGuard AI: AI-Powered Credit Card Fraud Detection System ï BCA Project Report) Tj
+ET
+0.78 G
+0.5669291338582678 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 39.6850393700787407 m
+538.5870866141731312 39.6850393700787407 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 28.3464566929134207 Td
+([College / Institute Name - To be Added]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+489.1470866141731904 28.3464566929134207 Td
+(Page 26 of 34) Tj
+ET
+endstream
+endobj
+55 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 56 0 R
+>>
+endobj
+56 0 obj
+<<
+/Length 4159
+>>
+stream
+1.7007874015748032 w
+0.78 G
+BT
+/F2 10 Tf
+11.5 TL
+0.392 g
+56.6929133858267775 771.0238582677164914 Td
+(CHAPTER 10) Tj
+ET
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 751.1813385826771992 Td
+(TESTING) Tj
+ET
+1.7007874015748032 w
+56.6929133858267775 739.8427559055118081 m
+538.5870866141731312 739.8427559055118081 l
+S
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 711.4962992125983874 Td
+(10.1 Testing Strategy and Philosophy) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 694.4884251968503577 Td
+(Rigorous software testing is vital to verify that CreditGuard AI operates correctly, handles malicious or malformed) Tj
+T* (inputs securely, and maintains deterministic mathematical integrity throughout feature transformation and inference.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 657.3545669291338527 Td
+(The testing methodology encompasses Unit Testing, Integration Testing, Machine Learning Pipeline Testing, REST) Tj
+T* (API Testing, UI Responsiveness Testing, and Input Boundary Validation.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 614.5514173228345953 Td
+(10.2 Unit and Pipeline Testing) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 597.5435433070865656 Td
+(Unit test suites were constructed to validate isolated mathematical functions. Specifically, tests verify that the Haversine) Tj
+T* (distance algorithm correctly calculates zero distance when input coordinates are identical, and yields expected spherical) Tj
+T* (distances for known geographic benchmark coordinates.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 546.8033858267715459 Td
+(Pipeline unit tests verify that temporal features \(hour, day, month, day of week, weekend\) are correctly extracted across) Tj
+T* (standard ISO datetime strings and edge cases \(such as leap years and midnight boundaries\).) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 504.0002362204724022 Td
+(10.3 Integration and API Testing) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 486.9923622047243725 Td
+(Integration testing evaluates the end-to-end communication between the Flask REST API, the deserialized Joblib) Tj
+T* (models, and the JSON transformation pipeline. Using automated Python test scripts \(notebooks/test_flask_api.py\),) Tj
+T* (automated HTTP POST requests were dispatched with valid and invalid payloads to ensure appropriate HTTP status) Tj
+T* (codes \(200 OK, 400 Bad Request, 422 Unprocessable Entity\).) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 416.97661417322837 Td
+(10.4 User Interface and Validation Testing) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 399.9687401574803403 Td
+(Client-side tests verify that form reset events successfully clear all input controls and reset the risk visualization meter.) Tj
+T* (Boundary validation ensures that inputs exceeding physical latitude bounds \(-90 to +90\) or negative financial amounts) Tj
+T* (trigger instant visual warnings before network requests are dispatched.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 343.5592913385826819 Td
+(10.5 Verification and Validation Test Matrix) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 326.5514173228345953 Td
+(Table 10.1 details the formal verification test matrix, documenting Test IDs, Test Cases, Input Conditions, Expected) Tj
+T* (Results, Actual Results, and Status.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 807.8742519685039269 Td
+(CreditGuard AI: AI-Powered Credit Card Fraud Detection System ï BCA Project Report) Tj
+ET
+0.78 G
+0.5669291338582678 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 39.6850393700787407 m
+538.5870866141731312 39.6850393700787407 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 28.3464566929134207 Td
+([College / Institute Name - To be Added]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+489.1470866141731904 28.3464566929134207 Td
+(Page 27 of 34) Tj
+ET
+endstream
+endobj
+57 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 58 0 R
+>>
+endobj
+58 0 obj
+<<
+/Length 4453
+>>
+stream
+1.7007874015748032 w
+0.78 G
+BT
+/F2 10 Tf
+11.5 TL
+0.392 g
+56.6929133858267775 771.0238582677164914 Td
+(CHAPTER 11) Tj
+ET
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 751.1813385826771992 Td
+(RESULTS AND DISCUSSION) Tj
+ET
+1.7007874015748032 w
+56.6929133858267775 739.8427559055118081 m
+538.5870866141731312 739.8427559055118081 l
+S
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 711.4962992125983874 Td
+(11.1 System Output Characterization) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 694.4884251968503577 Td
+(The CreditGuard AI system is designed to produce four core analytical outputs upon ingesting transaction telemetry:) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 670.9608661417322537 Td
+(1. Continuous Fraud Probability: A floating-point value between 0.0000 and 1.0000 expressing the mathematical) Tj
+T* (likelihood that the transaction exhibits fraudulent characteristics.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 633.8270078740157487 Td
+(2. Formatted Risk Percentage: A human-readable percentage string \(0.00% to 100.00%\) for intuitive review.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 610.2994488188976447 Td
+(3. Calibrated Risk Classification: A high-confidence binary determination \("Legitimate" vs. "Potentially Fraudulent"\)) Tj
+T* (established strictly by comparing computed probability against the 0.90 threshold.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 573.1655905511811397 Td
+(4. Risk Tier Designation: Contextual severity grouping \(Low Risk, Medium Risk, Severe Risk\) guiding operational) Tj
+T* (follow-up actions.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 530.3624409448818824 Td
+(11.2 The Class Imbalance Paradox: Why Accuracy is Insufficient) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 513.3545669291338527 Td
+(A fundamental insight underscored by this project is the deceptive nature of raw Classification Accuracy when) Tj
+T* (evaluating fraud detection systems.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 476.2207086614173477 Td
+(In datasets where 99.8% of transactions are legitimate and 0.2% are fraudulent, a trivial dummy classifier that) Tj
+T* (unconditionally predicts 0 \(Legitimate\) for every single transaction will achieve a mathematically impressive 99.8%) Tj
+T* (accuracy. However, its operational utility is zero, as 100% of fraudulent attacks succeed undetected.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 425.4805511811023848 Td
+(Consequently, academic and industrial evaluations must prioritize cost-sensitive metrics: Precision, Recall, F1-Score,) Tj
+T* (and the Area Under the Receiver Operating Characteristic Curve \(ROC-AUC\).) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 382.6774015748031843 Td
+(11.3 Experimental Model Performance Placeholders) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 365.6695275590551546 Td
+(In strict compliance with academic authenticity standards, no experimental performance figures are fabricated. Table) Tj
+T* (11.1 outlines the formal evaluation matrix template, with metrics marked for empirical population following live test) Tj
+T* (suite completion.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 309.2600787401574962 Td
+(11.4 Confusion Matrix and Classification Report Placeholders) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 292.2522047244094665 Td
+(Table 11.2 delineates the Confusion Matrix structure. All quantitative counts \(True Positives, False Positives, True) Tj
+T* (Negatives, False Negatives\) and the associated Precision-Recall classification report are explicitly reserved as [Actual) Tj
+T* (Result to be Added].) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 807.8742519685039269 Td
+(CreditGuard AI: AI-Powered Credit Card Fraud Detection System ï BCA Project Report) Tj
+ET
+0.78 G
+0.5669291338582678 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 39.6850393700787407 m
+538.5870866141731312 39.6850393700787407 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 28.3464566929134207 Td
+([College / Institute Name - To be Added]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+489.1470866141731904 28.3464566929134207 Td
+(Page 28 of 34) Tj
+ET
+endstream
+endobj
+59 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 60 0 R
+>>
+endobj
+60 0 obj
+<<
+/Length 4777
+>>
+stream
+1.7007874015748032 w
+0.78 G
+BT
+/F2 10 Tf
+11.5 TL
+0.392 g
+56.6929133858267775 771.0238582677164914 Td
+(CHAPTER 12) Tj
+ET
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 751.1813385826771992 Td
+(SECURITY, PRIVACY AND ETHICAL CONSIDERATIONS) Tj
+ET
+1.7007874015748032 w
+56.6929133858267775 739.8427559055118081 m
+538.5870866141731312 739.8427559055118081 l
+S
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 711.4962992125983874 Td
+(12.1 Protection of Cardholder Information \(PCI-DSS\)) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 694.4884251968503577 Td
+(Financial applications must comply with rigorous security standards, notably the Payment Card Industry Data Security) Tj
+T* (Standard \(PCI-DSS\). CreditGuard AI implements data minimization principles:) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 657.3545669291338527 Td
+(ï Primary Account Number \(PAN\) Exclusion: The credit card number \(cc_num\) is never fed into the machine learning) Tj
+T* (feature matrix.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 620.2207086614173477 Td
+(ï Elimination of Storage: The prototype does not store cardholder names, billing street addresses, CVVs, or full card) Tj
+T* (numbers in any database or file system.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 583.0868503937008427 Td
+(ï Ephemeral Memory Processing: Data received by the Flask endpoint resides strictly in volatile memory during the) Tj
+T* (duration of the inference request and is immediately released upon JSON response generation.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 540.2837007874015853 Td
+(12.2 Secure Deployment and Sanitization Practices) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 523.2758267716535556 Td
+(All incoming request payloads are strictly validated on both client and server tiers. Strict input sanitization prevents) Tj
+T* (injection attacks \(such as SQL injection or cross-site scripting\), and rate limiting is recommended for production) Tj
+T* (deployments to prevent denial-of-service and model inversion attacks.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 466.8663779527558972 Td
+(12.3 Ethical Implications: False Positives vs. False Negatives) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 449.8585039370078675 Td
+(Machine learning in financial security carries distinct societal and ethical responsibilities:) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 426.3309448818897067 Td
+(ï False Positives: Denying a legitimate transaction causes severe customer inconvenience, embarrassment, and potential) Tj
+T* (financial distress during emergencies.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 389.1970866141732017 Td
+(ï False Negatives: Missing a fraudulent transaction results in direct monetary theft from consumers or financial) Tj
+T* (institutions.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 352.0632283464566967 Td
+(By setting the threshold to 0.90, CreditGuard AI deliberately suppresses false positives, ensuring that transactions) Tj
+T* (flagged as fraudulent exhibit extreme anomaly indicators.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 309.2600787401574962 Td
+(12.4 Human-in-the-Loop Governance and Academic Prototype Disclaimer) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 292.2522047244094665 Td
+(CRITICAL ACADEMIC DISCLAIMER: CreditGuard AI is developed as an academic capstone and educational) Tj
+T* (prototype. It is not certified for production banking operations or direct financial transaction processing.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 255.1183464566929615 Td
+(In legitimate banking institutions, automated machine learning models do not operate in complete isolation. Rather, they) Tj
+T* (serve as Decision Support Systems under a "Human-in-the-Loop" governance model, providing risk scoring to certified) Tj
+T* (fraud investigators who make final determinations regarding account suspensions and law enforcement escalations.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 807.8742519685039269 Td
+(CreditGuard AI: AI-Powered Credit Card Fraud Detection System ï BCA Project Report) Tj
+ET
+0.78 G
+0.5669291338582678 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 39.6850393700787407 m
+538.5870866141731312 39.6850393700787407 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 28.3464566929134207 Td
+([College / Institute Name - To be Added]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+489.1470866141731904 28.3464566929134207 Td
+(Page 29 of 34) Tj
+ET
+endstream
+endobj
+61 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 62 0 R
+>>
+endobj
+62 0 obj
+<<
+/Length 4506
+>>
+stream
+1.7007874015748032 w
+0.78 G
+BT
+/F2 10 Tf
+11.5 TL
+0.392 g
+56.6929133858267775 771.0238582677164914 Td
+(CHAPTER 13) Tj
+ET
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 751.1813385826771992 Td
+(ADVANTAGES, LIMITATIONS AND FUTURE SCOPE) Tj
+ET
+1.7007874015748032 w
+56.6929133858267775 739.8427559055118081 m
+538.5870866141731312 739.8427559055118081 l
+S
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 711.4962992125983874 Td
+(13.1 System Advantages) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 694.4884251968503577 Td
+(ï Real-Time Processing: Delivers instant risk evaluations within milliseconds.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 670.9608661417322537 Td
+(ï Non-Linear Pattern Recognition: Captures intricate multivariate relationships that static rules cannot detect.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 647.4333070866141497 Td
+(ï Spatial-Temporal Synthesis: Incorporates physical distance and circadian rhythms into risk models.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 623.9057480314960458 Td
+(ï Target-Aware Dimensionality Control: Avoids memory bloat using CatBoost encoding for high-cardinality features.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 600.3781889763779418 Td
+(ï Class-Balanced Loss Optimization: Ensures high sensitivity to minority fraud instances.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 576.8506299212598378 Td
+(ï Intuitive Fintech Dashboard: Accessible web-based interface requiring no installation.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 547.6537795275589815 Td
+(13.2 System Limitations) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 530.6459055118109518 Td
+(ï Static Offline Model: The pipeline does not continuously update in real time as new transactions occur.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 507.1183464566929047 Td
+(ï Dataset Boundary: The model is fitted on historical curated data and may experience concept drift if criminal tactics) Tj
+T* (evolve.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 469.9844881889763428 Td
+(ï Fixed Threshold: The 0.90 decision threshold is static, whereas commercial systems often employ dynamic tier-based) Tj
+T* (thresholds.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 432.8506299212598378 Td
+(ï Lack of Banking Switch Integration: Does not interface directly with live payment switches \(e.g., ISO 8583 rails\).) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 403.6537795275590383 Td
+(13.3 Future Scope and Enhancements) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 386.6459055118109518 Td
+(ï Streaming Data Pipeline: Integration with Apache Kafka or Apache Flink for real-time streaming transaction) Tj
+T* (processing.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 349.5120472440944468 Td
+(ï Explainable AI \(XAI\): Implementing SHAP \(SHapley Additive exPlanations\) or LIME to provide cardholders with) Tj
+T* (clear feature-level justifications for flagged transactions.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 312.3781889763779418 Td
+(ï Continuous Online Learning and Drift Detection: Incorporating statistical drift monitors \(e.g., Evidently AI\) to detect) Tj
+T* (concept drift and trigger automated model retraining.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 275.2443307086614368 Td
+(ï Graph Neural Networks \(GNNs\): Modeling transactions as dynamic graph networks to uncover organized fraud rings) Tj
+T* (and synthetic identity networks.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 238.1104724409449318 Td
+(ï Enterprise Core Banking Integration: Interfacing with core banking APIs and multi-factor authentication \(MFA\)) Tj
+T* (step-up challenges.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 807.8742519685039269 Td
+(CreditGuard AI: AI-Powered Credit Card Fraud Detection System ï BCA Project Report) Tj
+ET
+0.78 G
+0.5669291338582678 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 39.6850393700787407 m
+538.5870866141731312 39.6850393700787407 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 28.3464566929134207 Td
+([College / Institute Name - To be Added]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+489.1470866141731904 28.3464566929134207 Td
+(Page 30 of 34) Tj
+ET
+endstream
+endobj
+63 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 64 0 R
+>>
+endobj
+64 0 obj
+<<
+/Length 3871
+>>
+stream
+1.7007874015748032 w
+0.78 G
+BT
+/F2 10 Tf
+11.5 TL
+0.392 g
+56.6929133858267775 771.0238582677164914 Td
+(CHAPTER 14) Tj
+ET
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 751.1813385826771992 Td
+(CONCLUSION) Tj
+ET
+1.7007874015748032 w
+56.6929133858267775 739.8427559055118081 m
+538.5870866141731312 739.8427559055118081 l
+S
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 711.4962992125983874 Td
+(14.1 Project Summary) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 694.4884251968503577 Td
+(The CreditGuard AI project successfully conceptualized, designed, implemented, and verified an end-to-end,) Tj
+T* (machine-learning-based credit card fraud detection system. Developed as a final-year Bachelor of Computer) Tj
+T* (Applications academic project, the application bridges the gap between statistical modeling and usable software) Tj
+T* (engineering.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 630.1419685039369369 Td
+(The pipeline processes high-cardinality financial data, engineers vital temporal and geospatial features \(including) Tj
+T* (Haversine distance\), applies CatBoost target encoding, counters severe class imbalance via balanced sample weighting,) Tj
+T* (and trains a Scikit-learn HistGradientBoostingClassifier evaluated against a strict 0.90 fraud decision threshold.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 573.7325196850392786 Td
+(14.2 Technical Achievements) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 556.7246456692912489 Td
+(Key technical milestones accomplished in this project include:) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 533.1970866141732586 Td
+(ï Successful deployment of CatBoost target encoding, drastically reducing dimensionality while preventing target) Tj
+T* (leakage.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 496.0632283464566967 Td
+(ï Rigorous mathematical implementation of the Haversine spherical distance formula to capture geographic anomalies.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 472.5356692913385928 Td
+(ï Effective application of cost-sensitive balanced sample weighting, forcing the gradient boosting algorithm to heavily) Tj
+T* (penalize errors on rare fraudulent transactions.) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 435.4018110236220309 Td
+(ï Construction of a production-style dark fintech web application utilizing Flask, HTML5, CSS3, and JavaScript,) Tj
+T* (providing instant fraud probability scoring and risk badges.) Tj
+ET
+BT
+/F10 12 Tf
+13.7999999999999989 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 392.5986614173228304 Td
+(14.3 Concluding Remarks) Tj
+ET
+BT
+/F9 10 Tf
+11.5 TL
+0.118 g
+56.6929133858267775 375.5907874015748007 Td
+(CreditGuard AI demonstrates that intelligent machine learning techniques, when combined with disciplined domain) Tj
+T* (feature engineering and modern web technologies, provide an effective and scalable paradigm for modern financial) Tj
+T* (security. While developed as an academic prototype, the system provides a robust architectural foundation for future) Tj
+T* (research in streaming analytics, explainable AI, and autonomous financial fraud defense.) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 807.8742519685039269 Td
+(CreditGuard AI: AI-Powered Credit Card Fraud Detection System ï BCA Project Report) Tj
+ET
+0.78 G
+0.5669291338582678 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 39.6850393700787407 m
+538.5870866141731312 39.6850393700787407 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 28.3464566929134207 Td
+([College / Institute Name - To be Added]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+489.1470866141731904 28.3464566929134207 Td
+(Page 31 of 34) Tj
+ET
+endstream
+endobj
+65 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 66 0 R
+>>
+endobj
+66 0 obj
+<<
+/Length 12504
+>>
+stream
+1.7007874015748032 w
+0.78 G
+BT
+/F10 14 Tf
+16.0999999999999979 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 771.0238582677164914 Td
+(TABLE 10.1: VERIFICATION & VALIDATION TEST MATRIX) Tj
+ET
+56.6929133858267775 759.6852755905511003 m
+538.5870866141731312 759.6852755905511003 l
+S
+0.98 0.98 0.99 rg
+56.6929133858267775 742.6774015748030706 481.8941732283464034 -34.0157480314960665 re
+f
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+0.059 0.09 0.165 rg
+62.3622047244094517 731.3388188976377933 Td
+(TC-01: Backend Model Loading) Tj
+ET
+BT
+/F1 7.5 Tf
+8.625 TL
+0.314 g
+62.3622047244094517 720.0002362204724022 Td
+(Condition: Startup verification of catboost_encoder.pkl, final_fraud_model.pkl, and fr...) Tj
+ET
+BT
+/F1 7.5 Tf
+8.625 TL
+0.314 g
+62.3622047244094517 710.0789763779526993 Td
+(Expected: All 3 serialized Joblib artifacts load into memory without FileNotFoundError or ...) Tj
+ET
+BT
+/F2 7.5 Tf
+8.625 TL
+0.706 0.325 0.035 rg
+411.0280314960629084 725.6695275590550409 Td
+(Actual: [To be Tested]) Tj
+ET
+BT
+/F2 7.5 Tf
+8.625 TL
+0.706 0.325 0.035 rg
+411.0280314960629084 714.3309448818897636 Td
+(Status: [To be Tested]) Tj
+ET
+0.98 0.98 0.99 rg
+56.6929133858267775 702.9923622047243725 481.8941732283464034 -34.0157480314960665 re
+f
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+0.059 0.09 0.165 rg
+62.3622047244094517 691.6537795275589815 Td
+(TC-02: Temporal Feature Engineering) Tj
+ET
+BT
+/F1 7.5 Tf
+8.625 TL
+0.314 g
+62.3622047244094517 680.3151968503937042 Td
+(Condition: Input ISO datetime string: "2026-06-14 23:45:00"...) Tj
+ET
+BT
+/F1 7.5 Tf
+8.625 TL
+0.314 g
+62.3622047244094517 670.3939370078740012 Td
+(Expected: Hour=23, Day=14, Month=6, DayOfWeek=6 \(Sunday\), is_weekend=1 successfully derive...) Tj
+ET
+BT
+/F2 7.5 Tf
+8.625 TL
+0.706 0.325 0.035 rg
+411.0280314960629084 685.9844881889763428 Td
+(Actual: [To be Tested]) Tj
+ET
+BT
+/F2 7.5 Tf
+8.625 TL
+0.706 0.325 0.035 rg
+411.0280314960629084 674.6459055118109518 Td
+(Status: [To be Tested]) Tj
+ET
+0.98 0.98 0.99 rg
+56.6929133858267775 663.3073228346456744 481.8941732283464034 -34.0157480314960665 re
+f
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+0.059 0.09 0.165 rg
+62.3622047244094517 651.9687401574802834 Td
+(TC-03: Customer Age Calculation) Tj
+ET
+BT
+/F1 7.5 Tf
+8.625 TL
+0.314 g
+62.3622047244094517 640.6301574803148924 Td
+(Condition: Transaction timestamp: 2026-06-14, Date of Birth: 1986-06-14...) Tj
+ET
+BT
+/F1 7.5 Tf
+8.625 TL
+0.314 g
+62.3622047244094517 630.7088976377951894 Td
+(Expected: customer_age accurately computed as exactly 40.0 years....) Tj
+ET
+BT
+/F2 7.5 Tf
+8.625 TL
+0.706 0.325 0.035 rg
+411.0280314960629084 646.2994488188976447 Td
+(Actual: [To be Tested]) Tj
+ET
+BT
+/F2 7.5 Tf
+8.625 TL
+0.706 0.325 0.035 rg
+411.0280314960629084 634.9608661417322537 Td
+(Status: [To be Tested]) Tj
+ET
+0.98 0.98 0.99 rg
+56.6929133858267775 623.6222834645668627 481.8941732283464034 -34.0157480314960665 re
+f
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+0.059 0.09 0.165 rg
+62.3622047244094517 612.2837007874015853 Td
+(TC-04: Haversine Distance Formulation) Tj
+ET
+BT
+/F1 7.5 Tf
+8.625 TL
+0.314 g
+62.3622047244094517 600.9451181102361943 Td
+(Condition: Cardholder lat/long: \(40.7128, -74.0060\), Merchant lat/long: \(40.7306, -73....) Tj
+ET
+BT
+/F1 7.5 Tf
+8.625 TL
+0.314 g
+62.3622047244094517 591.0238582677164914 Td
+(Expected: Calculates correct spherical distance in kilometers \(~6.3 km\) without mathematic...) Tj
+ET
+BT
+/F2 7.5 Tf
+8.625 TL
+0.706 0.325 0.035 rg
+411.0280314960629084 606.614409448818833 Td
+(Actual: [To be Tested]) Tj
+ET
+BT
+/F2 7.5 Tf
+8.625 TL
+0.706 0.325 0.035 rg
+411.0280314960629084 595.2758267716535556 Td
+(Status: [To be Tested]) Tj
+ET
+0.98 0.98 0.99 rg
+56.6929133858267775 583.9372440944881646 481.8941732283464034 -34.0157480314960665 re
+f
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+0.059 0.09 0.165 rg
+62.3622047244094517 572.5986614173227736 Td
+(TC-05: Credit Card Number Masking & Exclusion) Tj
+ET
+BT
+/F1 7.5 Tf
+8.625 TL
+0.314 g
+62.3622047244094517 561.2600787401574962 Td
+(Condition: User enters 16-digit card number in web input form...) Tj
+ET
+BT
+/F1 7.5 Tf
+8.625 TL
+0.314 g
+62.3622047244094517 551.3388188976377933 Td
+(Expected: cc_num is completely excluded from feature matrix fed into ML model; raw PAN is ...) Tj
+ET
+BT
+/F2 7.5 Tf
+8.625 TL
+0.706 0.325 0.035 rg
+411.0280314960629084 566.9293700787401349 Td
+(Actual: [To be Tested]) Tj
+ET
+BT
+/F2 7.5 Tf
+8.625 TL
+0.706 0.325 0.035 rg
+411.0280314960629084 555.5907874015747439 Td
+(Status: [To be Tested]) Tj
+ET
+0.98 0.98 0.99 rg
+56.6929133858267775 544.2522047244093528 481.8941732283464034 -34.0157480314960665 re
+f
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+0.059 0.09 0.165 rg
+62.3622047244094517 532.9136220472440755 Td
+(TC-06: CatBoost Encoding of Known Categories) Tj
+ET
+BT
+/F1 7.5 Tf
+8.625 TL
+0.314 g
+62.3622047244094517 521.5750393700786844 Td
+(Condition: Input merchant="fraud_Rippin", category="grocery_pos", gender="F", state="N...) Tj
+ET
+BT
+/F1 7.5 Tf
+8.625 TL
+0.314 g
+62.3622047244094517 511.6537795275589815 Td
+(Expected: Encodes categorical inputs into aligned numerical vectors matching pre-fitted ta...) Tj
+ET
+BT
+/F2 7.5 Tf
+8.625 TL
+0.706 0.325 0.035 rg
+411.0280314960629084 527.2443307086614368 Td
+(Actual: [To be Tested]) Tj
+ET
+BT
+/F2 7.5 Tf
+8.625 TL
+0.706 0.325 0.035 rg
+411.0280314960629084 515.9057480314959321 Td
+(Status: [To be Tested]) Tj
+ET
+0.98 0.98 0.99 rg
+56.6929133858267775 504.5671653543306547 481.8941732283464034 -34.0157480314960665 re
+f
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+0.059 0.09 0.165 rg
+62.3622047244094517 493.2285826771653205 Td
+(TC-07: CatBoost Encoding of Unseen/Rare Category) Tj
+ET
+BT
+/F1 7.5 Tf
+8.625 TL
+0.314 g
+62.3622047244094517 481.8899999999999295 Td
+(Condition: Input merchant="unknown_new_merchant_xyz"...) Tj
+ET
+BT
+/F1 7.5 Tf
+8.625 TL
+0.314 g
+62.3622047244094517 471.9687401574802834 Td
+(Expected: Gracefully assigns empirical global prior mean without raising KeyError or NaN v...) Tj
+ET
+BT
+/F2 7.5 Tf
+8.625 TL
+0.706 0.325 0.035 rg
+411.0280314960629084 487.559291338582625 Td
+(Actual: [To be Tested]) Tj
+ET
+BT
+/F2 7.5 Tf
+8.625 TL
+0.706 0.325 0.035 rg
+411.0280314960629084 476.2207086614172908 Td
+(Status: [To be Tested]) Tj
+ET
+0.98 0.98 0.99 rg
+56.6929133858267775 464.8821259842518998 481.8941732283464034 -34.0157480314960665 re
+f
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+0.059 0.09 0.165 rg
+62.3622047244094517 453.5435433070865656 Td
+(TC-08: Probability Threshold Evaluation \(< 0.90\)) Tj
+ET
+BT
+/F1 7.5 Tf
+8.625 TL
+0.314 g
+62.3622047244094517 442.2049606299212314 Td
+(Condition: HistGradientBoosting predicts class 1 probability of 0.7420...) Tj
+ET
+BT
+/F1 7.5 Tf
+8.625 TL
+0.314 g
+62.3622047244094517 432.2837007874015285 Td
+(Expected: Comparison with threshold 0.90 flags transaction as "Legitimate" / Low-Medium Ri...) Tj
+ET
+BT
+/F2 7.5 Tf
+8.625 TL
+0.706 0.325 0.035 rg
+411.0280314960629084 447.8742519685038701 Td
+(Actual: [To be Tested]) Tj
+ET
+BT
+/F2 7.5 Tf
+8.625 TL
+0.706 0.325 0.035 rg
+411.0280314960629084 436.5356692913385359 Td
+(Status: [To be Tested]) Tj
+ET
+0.98 0.98 0.99 rg
+56.6929133858267775 425.1970866141731449 481.8941732283464034 -34.0157480314960665 re
+f
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+0.059 0.09 0.165 rg
+62.3622047244094517 413.8585039370078107 Td
+(TC-09: Probability Threshold Evaluation \(>= 0.90\)) Tj
+ET
+BT
+/F1 7.5 Tf
+8.625 TL
+0.314 g
+62.3622047244094517 402.5199212598424765 Td
+(Condition: HistGradientBoosting predicts class 1 probability of 0.9450...) Tj
+ET
+BT
+/F1 7.5 Tf
+8.625 TL
+0.314 g
+62.3622047244094517 392.5986614173227736 Td
+(Expected: Comparison with threshold 0.90 flags transaction as "Potentially Fraudulent" / H...) Tj
+ET
+BT
+/F2 7.5 Tf
+8.625 TL
+0.706 0.325 0.035 rg
+411.0280314960629084 408.1892125984251152 Td
+(Actual: [To be Tested]) Tj
+ET
+BT
+/F2 7.5 Tf
+8.625 TL
+0.706 0.325 0.035 rg
+411.0280314960629084 396.850629921259781 Td
+(Status: [To be Tested]) Tj
+ET
+0.98 0.98 0.99 rg
+56.6929133858267775 385.51204724409439 481.8941732283464034 -34.0157480314960665 re
+f
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+0.059 0.09 0.165 rg
+62.3622047244094517 374.1734645669290558 Td
+(TC-10: Flask REST API Validation \(Missing Field\)) Tj
+ET
+BT
+/F1 7.5 Tf
+8.625 TL
+0.314 g
+62.3622047244094517 362.8348818897637216 Td
+(Condition: POST request sent to /predict with "amt" omitted from JSON payload...) Tj
+ET
+BT
+/F1 7.5 Tf
+8.625 TL
+0.314 g
+62.3622047244094517 352.9136220472440186 Td
+(Expected: HTTP 400 Bad Request returned with structured JSON error stating missing "amt" p...) Tj
+ET
+BT
+/F2 7.5 Tf
+8.625 TL
+0.706 0.325 0.035 rg
+411.0280314960629084 368.5041732283464171 Td
+(Actual: [To be Tested]) Tj
+ET
+BT
+/F2 7.5 Tf
+8.625 TL
+0.706 0.325 0.035 rg
+411.0280314960629084 357.1655905511810261 Td
+(Status: [To be Tested]) Tj
+ET
+0.98 0.98 0.99 rg
+56.6929133858267775 345.8270078740156919 481.8941732283464034 -34.0157480314960665 re
+f
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+0.059 0.09 0.165 rg
+62.3622047244094517 334.4884251968503008 Td
+(TC-11: Negative Transaction Amount Validation) Tj
+ET
+BT
+/F1 7.5 Tf
+8.625 TL
+0.314 g
+62.3622047244094517 323.1498425196849666 Td
+(Condition: POST request sent with amt = -50.00...) Tj
+ET
+BT
+/F1 7.5 Tf
+8.625 TL
+0.314 g
+62.3622047244094517 313.2285826771652637 Td
+(Expected: Validation error caught before model pipeline; HTTP 422 or 400 returned....) Tj
+ET
+BT
+/F2 7.5 Tf
+8.625 TL
+0.706 0.325 0.035 rg
+411.0280314960629084 328.8191338582676053 Td
+(Actual: [To be Tested]) Tj
+ET
+BT
+/F2 7.5 Tf
+8.625 TL
+0.706 0.325 0.035 rg
+411.0280314960629084 317.480551181102328 Td
+(Status: [To be Tested]) Tj
+ET
+0.98 0.98 0.99 rg
+56.6929133858267775 306.1419685039369369 481.8941732283464034 -34.0157480314960665 re
+f
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+0.059 0.09 0.165 rg
+62.3622047244094517 294.8033858267715459 Td
+(TC-12: Latitude/Longitude Range Boundary Check) Tj
+ET
+BT
+/F1 7.5 Tf
+8.625 TL
+0.314 g
+62.3622047244094517 283.4648031496062686 Td
+(Condition: Input latitude = 105.4 \(exceeding valid physical boundary of [-90, 90]\)...) Tj
+ET
+BT
+/F1 7.5 Tf
+8.625 TL
+0.314 g
+62.3622047244094517 273.5435433070865656 Td
+(Expected: Client-side and server-side validation reject submission with out-of-range coord...) Tj
+ET
+BT
+/F2 7.5 Tf
+8.625 TL
+0.706 0.325 0.035 rg
+411.0280314960629084 289.1340944881889072 Td
+(Actual: [To be Tested]) Tj
+ET
+BT
+/F2 7.5 Tf
+8.625 TL
+0.706 0.325 0.035 rg
+411.0280314960629084 277.7955118110235162 Td
+(Status: [To be Tested]) Tj
+ET
+0.98 0.98 0.99 rg
+56.6929133858267775 266.456929133858182 481.8941732283464034 -34.0157480314960665 re
+f
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+0.059 0.09 0.165 rg
+62.3622047244094517 255.1183464566928478 Td
+(TC-13: Frontend Form Reset Functionality) Tj
+ET
+BT
+/F1 7.5 Tf
+8.625 TL
+0.314 g
+62.3622047244094517 243.7797637795274568 Td
+(Condition: User fills all 15 input fields and clicks "Reset Form"...) Tj
+ET
+BT
+/F1 7.5 Tf
+8.625 TL
+0.314 g
+62.3622047244094517 233.8585039370077538 Td
+(Expected: All input inputs are cleared, probability meter hidden, and default status badge...) Tj
+ET
+BT
+/F2 7.5 Tf
+8.625 TL
+0.706 0.325 0.035 rg
+411.0280314960629084 249.4490551181102092 Td
+(Actual: [To be Tested]) Tj
+ET
+BT
+/F2 7.5 Tf
+8.625 TL
+0.706 0.325 0.035 rg
+411.0280314960629084 238.1104724409448181 Td
+(Status: [To be Tested]) Tj
+ET
+0.98 0.98 0.99 rg
+56.6929133858267775 226.7718897637794271 481.8941732283464034 -34.0157480314960665 re
+f
+BT
+/F2 8.5 Tf
+9.7749999999999986 TL
+0.059 0.09 0.165 rg
+62.3622047244094517 215.4333070866141497 Td
+(TC-14: End-to-End Latency Measurement) Tj
+ET
+BT
+/F1 7.5 Tf
+8.625 TL
+0.314 g
+62.3622047244094517 204.0947244094487587 Td
+(Condition: Submit full transaction payload via browser client interface...) Tj
+ET
+BT
+/F1 7.5 Tf
+8.625 TL
+0.314 g
+62.3622047244094517 194.1734645669290558 Td
+(Expected: Total round-trip time \(HTTP POST + Preprocessing + Inference + JSON Response\) < ...) Tj
+ET
+BT
+/F2 7.5 Tf
+8.625 TL
+0.706 0.325 0.035 rg
+411.0280314960629084 209.7640157480313974 Td
+(Actual: [To be Tested]) Tj
+ET
+BT
+/F2 7.5 Tf
+8.625 TL
+0.706 0.325 0.035 rg
+411.0280314960629084 198.4254330708660063 Td
+(Status: [To be Tested]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 807.8742519685039269 Td
+(CreditGuard AI: AI-Powered Credit Card Fraud Detection System ï BCA Project Report) Tj
+ET
+0.78 G
+0.5669291338582678 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 39.6850393700787407 m
+538.5870866141731312 39.6850393700787407 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 28.3464566929134207 Td
+([College / Institute Name - To be Added]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+489.1470866141731904 28.3464566929134207 Td
+(Page 32 of 34) Tj
+ET
+endstream
+endobj
+67 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 68 0 R
+>>
+endobj
+68 0 obj
+<<
+/Length 5482
+>>
+stream
+1.7007874015748032 w
+0.78 G
+BT
+/F10 16 Tf
+18.3999999999999986 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 771.0238582677164914 Td
+(REFERENCES) Tj
+ET
+56.6929133858267775 759.6852755905511003 m
+538.5870866141731312 759.6852755905511003 l
+S
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 731.3388188976377933 Td
+([1]) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.059 0.09 0.165 rg
+79.3700787401574814 731.3388188976377933 Td
+(Python Software Foundation. Python 3.10+ Language Documentation. [Reference details to be verified]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 g
+79.3700787401574814 715.7482677165354517 Td
+(Category: Programming Environment \(Official documentation for standard libraries, datetime parsing, and mathematical calculations.\)) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 701.5750393700786844 Td
+([2]) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.059 0.09 0.165 rg
+79.3700787401574814 701.5750393700786844 Td
+(Pallets Projects. Flask: A Python Microframework for Web Applications. [Reference details to be verified]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 g
+79.3700787401574814 685.9844881889763428 Td
+(Category: Web Framework \(Official technical documentation covering WSGI application routing, JSON request serialization, and template rendering.\)) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 671.8112598425196893 Td
+([3]) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.059 0.09 0.165 rg
+79.3700787401574814 671.8112598425196893 Td
+(The pandas Development Team. pandas: Powerful Python Data Analysis Toolkit. [Reference details to be) Tj
+T* (verified]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 g
+79.3700787401574814 643.4648031496062686 Td
+(Category: Data Manipulation \(Comprehensive guides on high-performance DataFrame operations, CSV ingestion, and datetime arithmetic.\)) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 629.291574803149615 Td
+([4]) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.059 0.09 0.165 rg
+79.3700787401574814 629.291574803149615 Td
+(Harris, C.R. et al. Array Programming with NumPy. [Reference details to be verified]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 g
+79.3700787401574814 613.7010236220471597 Td
+(Category: Numerical Mathematics \(Documentation for vectorized array mathematics, trigonometric calculations, and Haversine distance computations.\)) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 599.5277952755905062 Td
+([5]) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.059 0.09 0.165 rg
+79.3700787401574814 599.5277952755905062 Td
+(Pedregosa, F. et al. Scikit-learn: Machine Learning in Python. [Reference details to be verified]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 g
+79.3700787401574814 583.9372440944881646 Td
+(Category: Machine Learning Framework \(Official reference documentation for HistGradientBoostingClassifier, compute_sample_weight, and train-test evaluation splits.\)) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 569.7640157480313974 Td
+([6]) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.059 0.09 0.165 rg
+79.3700787401574814 569.7640157480313974 Td
+(Category Encoders Development Team. Category Encoders: A Collection of Scikit-Learn-Compatible Categorical) Tj
+T* (Transformers. [Reference details to be verified]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 g
+79.3700787401574814 541.4175590551180903 Td
+(Category: Feature Transformation \(Documentation detailing the CatBoostEncoder implementation, target statistics calculations, and empirical prior smoothing.\)) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 527.2443307086614368 Td
+([7]) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.059 0.09 0.165 rg
+79.3700787401574814 527.2443307086614368 Td
+(Joblib Development Team. Joblib: Running Python Functions as Pipeline Jobs. [Reference details to be verified]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 g
+79.3700787401574814 511.6537795275589815 Td
+(Category: Object Serialization \(Documentation covering optimized disk serialization and deserialization of NumPy and Scikit-learn estimators.\)) Tj
+ET
+BT
+/F2 9 Tf
+10.3499999999999996 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 497.480551181102328 Td
+([8]) Tj
+ET
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.059 0.09 0.165 rg
+79.3700787401574814 497.480551181102328 Td
+(Payment Card Industry Security Standards Council. PCI Data Security Standard \(PCI-DSS\) Specifications.) Tj
+T* ([Reference details to be verified]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.392 g
+79.3700787401574814 469.1340944881889072 Td
+(Category: Financial Security & Compliance \(Industry security standards concerning the protection, masking, and non-storage of Primary Account Numbers \(PAN\).\)) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 807.8742519685039269 Td
+(CreditGuard AI: AI-Powered Credit Card Fraud Detection System ï BCA Project Report) Tj
+ET
+0.78 G
+0.5669291338582678 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 39.6850393700787407 m
+538.5870866141731312 39.6850393700787407 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 28.3464566929134207 Td
+([College / Institute Name - To be Added]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+489.1470866141731904 28.3464566929134207 Td
+(Page 33 of 34) Tj
+ET
+endstream
+endobj
+69 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 70 0 R
+>>
+endobj
+70 0 obj
+<<
+/Length 2780
+>>
+stream
+1.7007874015748032 w
+0.78 G
+BT
+/F10 14 Tf
+16.0999999999999979 TL
+0.059 0.09 0.165 rg
+56.6929133858267775 771.0238582677164914 Td
+(APPENDIX A: PROJECT REPOSITORY STRUCTURE) Tj
+ET
+56.6929133858267775 759.6852755905511003 m
+538.5870866141731312 759.6852755905511003 l
+S
+0.96 0.97 0.98 rg
+56.6929133858267775 742.6774015748030706 481.8941732283464034 -394.0157480314961163 re
+f
+BT
+/F5 7.5 Tf
+8.625 TL
+0.078 g
+68.031496062992133 728.5041732283464171 Td
+(CreditCard-Fraud-Detection/) Tj
+T* (%) Tj
+T* (%% %    a p p . p y) Tj
+T* (%% %    r e q u i r e m e n t s . t x t) Tj
+T* (%% %    . g i t i g n o r e) Tj
+T* (%) Tj
+T* (%% %    m o d e l /) Tj
+T* (%      %% %    c a t b o o s t _ e n c o d e r . p k l) Tj
+T* (%      %% %    f i n a l _ f r a u d _ m o d e l . p k l) Tj
+T* (%      %% %    f r a u d _ t h r e s h o l d . p k l) Tj
+T* (%      %% %    h i s t _ g r a d i e n t _ b o o s t i n g . p k l) Tj
+T* (%      %% %    l o g i s t i c _ r e g r e s s i o n . p k l) Tj
+T* (%) Tj
+T* (%% %    n o t e b o o k s /) Tj
+T* (%      %% %    c l a s s _ b a l a n c e . p y) Tj
+T* (%      %% %    d a t a s e t _ i n s p e c t i o n . p y) Tj
+T* (%      %% %    e v a l u a t e _ f i n a l _ t h r e s h o l d . p y) Tj
+T* (%      %% %    p r e p r o c e s s i n g . p y) Tj
+T* (%      %% %    t e s t _ f i n a l _ p i p e l i n e . p y) Tj
+T* (%      %% %    t e s t _ f l a s k _ a p i . p y) Tj
+T* (%      %% %    t e s t _ r a w _ p i p e l i n e . p y) Tj
+T* (%      %% %    t h r e s h o l d _ a n a l y s i s . p y) Tj
+T* (%      %% %    t r a i n _ f i n a l _ p i p e l i n e . p y) Tj
+T* (%      %% %    t r a i n _ g r a d i e n t _ b o o s t i n g . p y) Tj
+T* (%      %% %    t r a i n _ l o g i s t i c _ r e g r e s s i o n . p y) Tj
+T* (%      %% %    v e r i f y _ p r o c e s s e d _ d a t a . p y) Tj
+T* (%) Tj
+T* (%% %    s t a t i c /) Tj
+T* (%      %% %    c s s /) Tj
+T* (%      %      %% %    s t y l e . c s s) Tj
+T* (%      %% %    j s /) Tj
+T* (%              %% %    a p p . j s) Tj
+T* (%) Tj
+T* (%% %    t e m p l a t e s /) Tj
+T* (        %% %    i n d e x . h t m l) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 807.8742519685039269 Td
+(CreditGuard AI: AI-Powered Credit Card Fraud Detection System ï BCA Project Report) Tj
+ET
+0.78 G
+0.5669291338582678 w
+56.6929133858267775 802.2049606299211746 m
+538.5870866141731312 802.2049606299211746 l
+S
+56.6929133858267775 39.6850393700787407 m
+538.5870866141731312 39.6850393700787407 l
+S
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+56.6929133858267775 28.3464566929134207 Td
+([College / Institute Name - To be Added]) Tj
+ET
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0.471 g
+489.1470866141731904 28.3464566929134207 Td
+(Page 34 of 34) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R 51 0 R 53 0 R 55 0 R 57 0 R 59 0 R 61 0 R 63 0 R 65 0 R 67 0 R 69 0 R ]
+/Count 34
+>>
+endobj
+71 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+72 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+73 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+74 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+75 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+76 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+77 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+78 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+79 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+80 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+81 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+82 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+83 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+84 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 71 0 R
+/F2 72 0 R
+/F3 73 0 R
+/F4 74 0 R
+/F5 75 0 R
+/F6 76 0 R
+/F7 77 0 R
+/F8 78 0 R
+/F9 79 0 R
+/F10 80 0 R
+/F11 81 0 R
+/F12 82 0 R
+/F13 83 0 R
+/F14 84 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+85 0 obj
+<<
+/Producer (jsPDF 4.2.1)
+/CreationDate (D:20261001151020+05'30')
+>>
+endobj
+86 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 87
+0000000000 65535 f 
+0000167745 00000 n 
+0000169796 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000003114 00000 n 
+0000003251 00000 n 
+0000006553 00000 n 
+0000006690 00000 n 
+0000009393 00000 n 
+0000009531 00000 n 
+0000013807 00000 n 
+0000013946 00000 n 
+0000020857 00000 n 
+0000020996 00000 n 
+0000026839 00000 n 
+0000026978 00000 n 
+0000032802 00000 n 
+0000032941 00000 n 
+0000037738 00000 n 
+0000037877 00000 n 
+0000043867 00000 n 
+0000044006 00000 n 
+0000049724 00000 n 
+0000049863 00000 n 
+0000052802 00000 n 
+0000052941 00000 n 
+0000058568 00000 n 
+0000058707 00000 n 
+0000064053 00000 n 
+0000064192 00000 n 
+0000067430 00000 n 
+0000067569 00000 n 
+0000073013 00000 n 
+0000073152 00000 n 
+0000078984 00000 n 
+0000079123 00000 n 
+0000081853 00000 n 
+0000081992 00000 n 
+0000087622 00000 n 
+0000087761 00000 n 
+0000090006 00000 n 
+0000090145 00000 n 
+0000095787 00000 n 
+0000095926 00000 n 
+0000100721 00000 n 
+0000100860 00000 n 
+0000106491 00000 n 
+0000106630 00000 n 
+0000112391 00000 n 
+0000112530 00000 n 
+0000113774 00000 n 
+0000113913 00000 n 
+0000119224 00000 n 
+0000119363 00000 n 
+0000123676 00000 n 
+0000123815 00000 n 
+0000128027 00000 n 
+0000128166 00000 n 
+0000132672 00000 n 
+0000132811 00000 n 
+0000137641 00000 n 
+0000137780 00000 n 
+0000142339 00000 n 
+0000142478 00000 n 
+0000146402 00000 n 
+0000146541 00000 n 
+0000159099 00000 n 
+0000159238 00000 n 
+0000164773 00000 n 
+0000164912 00000 n 
+0000168031 00000 n 
+0000168157 00000 n 
+0000168288 00000 n 
+0000168422 00000 n 
+0000168560 00000 n 
+0000168684 00000 n 
+0000168813 00000 n 
+0000168945 00000 n 
+0000169081 00000 n 
+0000169209 00000 n 
+0000169336 00000 n 
+0000169465 00000 n 
+0000169598 00000 n 
+0000169700 00000 n 
+0000170049 00000 n 
+0000170135 00000 n 
+trailer
+<<
+/Size 87
+/Root 86 0 R
+/Info 85 0 R
+/ID [ <AA7F362C9D575EF4556A34AE9579F8D6> <AA7F362C9D575EF4556A34AE9579F8D6> ]
+>>
+startxref
+170239
+%%EOF
