@@ -1,0 +1,783 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta
+        name="description"
+        content="CreditGuard AI - Intelligent credit card fraud detection powered by machine learning"
+    >
+
+    <meta
+        name="theme-color"
+        content="#050812"
+    >
+
+    <title>CreditGuard AI | Fraud Detection</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+        rel="stylesheet"
+    >
+
+    <link
+        rel="stylesheet"
+        href="{{ url_for('static', filename='css/style.css') }}"
+    >
+</head>
+
+<body>
+
+    <div class="background-effects">
+        <div class="glow glow-one"></div>
+        <div class="glow glow-two"></div>
+        <div class="grid-overlay"></div>
+    </div>
+
+    <div class="app-container">
+
+        <header class="topbar">
+
+            <div class="brand">
+
+                <div class="brand-icon">
+                    CG
+                </div>
+
+                <div class="brand-text">
+                    <h1>CreditGuard AI</h1>
+                    <span>Intelligent Fraud Detection</span>
+                </div>
+
+            </div>
+
+            <div class="security-status">
+                <span class="status-dot"></span>
+                <span>AI System Online</span>
+            </div>
+
+        </header>
+
+
+        <section class="hero">
+
+            <div class="hero-content">
+
+                <div class="hero-badge">
+                    AI-POWERED SECURITY
+                </div>
+
+                <h2>
+                    Detect Suspicious
+                    <span>Transactions</span>
+                    Instantly
+                </h2>
+
+                <p>
+                    Analyze transaction behavior with machine learning
+                    and identify potentially fraudulent activity in real time.
+                </p>
+
+            </div>
+
+        </section>
+
+
+        <main class="dashboard">
+
+            <section class="transaction-panel">
+
+                <div class="panel-header">
+
+                    <div>
+                        <span class="panel-label">
+                            TRANSACTION ANALYSIS
+                        </span>
+
+                        <h3>
+                            Transaction Details
+                        </h3>
+                    </div>
+
+                    <div class="secure-badge">
+                        Secure Analysis
+                    </div>
+
+                </div>
+
+
+                <form id="transactionForm" autocomplete="off">
+
+                    <div class="form-section">
+
+                        <div class="section-title">
+                            <span>01</span>
+                            Card Details
+                        </div>
+
+                        <div class="form-grid">
+
+                            <div class="form-group">
+
+                                <label for="card_number">
+                                    Card Number
+                                </label>
+
+                                <input
+                                    type="text"
+                                    id="card_number"
+                                    name="card_number"
+                                    placeholder="•••• •••• •••• 1234"
+                                    maxlength="19"
+                                    inputmode="numeric"
+                                    autocomplete="cc-number"
+                                >
+
+                            </div>
+
+
+                            <div class="form-group">
+
+                                <label for="expiry_date">
+                                    Expiration Date
+                                </label>
+
+                                <input
+                                    type="text"
+                                    id="expiry_date"
+                                    name="expiry_date"
+                                    placeholder="MM/YY"
+                                    maxlength="5"
+                                    inputmode="numeric"
+                                    autocomplete="cc-exp"
+                                >
+
+                            </div>
+
+
+                            <div class="form-group">
+
+                                <label for="cardholder_name">
+                                    Cardholder Name
+                                </label>
+
+                                <input
+                                    type="text"
+                                    id="cardholder_name"
+                                    name="cardholder_name"
+                                    placeholder="John Doe"
+                                    autocomplete="cc-name"
+                                >
+
+                            </div>
+
+
+                            <div class="form-group">
+
+                                <label for="billing_zip">
+                                    Billing ZIP / Postal Code
+                                </label>
+
+                                <input
+                                    type="text"
+                                    id="billing_zip"
+                                    name="billing_zip"
+                                    placeholder="713200"
+                                    maxlength="10"
+                                    inputmode="numeric"
+                                    autocomplete="postal-code"
+                                >
+
+                            </div>
+
+
+                            <div class="form-group full-width">
+
+                                <label for="billing_address">
+                                    Billing Address
+                                </label>
+
+                                <input
+                                    type="text"
+                                    id="billing_address"
+                                    name="billing_address"
+                                    placeholder="Enter billing address"
+                                    autocomplete="street-address"
+                                >
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="form-section">
+
+                        <div class="section-title">
+                            <span>02</span>
+                            Transaction Details
+                        </div>
+
+                        <div class="form-grid">
+
+                            <div class="form-group">
+
+                                <label for="amt">
+                                    Transaction Amount
+                                </label>
+
+                                <input
+                                    type="number"
+                                    id="amt"
+                                    name="amt"
+                                    step="0.01"
+                                    min="0"
+                                    placeholder="₹ 0.00"
+                                    required
+                                >
+
+                            </div>
+
+
+                            <div class="form-group">
+
+                                <label for="trans_date_trans_time">
+                                    Transaction Date &amp; Time
+                                </label>
+
+                                <input
+                                    type="datetime-local"
+                                    id="trans_date_trans_time"
+                                    name="trans_date_trans_time"
+                                    required
+                                >
+
+                            </div>
+
+
+                            <div class="form-group">
+
+                                <label for="merchant">
+                                    Merchant
+                                </label>
+
+                                <input
+                                    type="text"
+                                    id="merchant"
+                                    name="merchant"
+                                    placeholder="Merchant name"
+                                    required
+                                >
+
+                            </div>
+
+
+                            <div class="form-group">
+
+                                <label for="category">
+                                    Transaction Category
+                                </label>
+
+                                <input
+                                    type="text"
+                                    id="category"
+                                    name="category"
+                                    placeholder="e.g. shopping_net"
+                                    required
+                                >
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="form-section">
+
+                        <div class="section-title">
+                            <span>03</span>
+                            Customer Details
+                        </div>
+
+                        <div class="form-grid">
+
+                            <div class="form-group">
+
+                                <label for="age">
+                                    Age
+                                </label>
+
+                                <input
+                                    type="number"
+                                    id="age"
+                                    name="age"
+                                    min="18"
+                                    max="100"
+                                    placeholder="25"
+                                    required
+                                >
+
+                            </div>
+
+
+                            <div class="form-group">
+
+                                <label for="gender">
+                                    Gender
+                                </label>
+
+                                <select
+                                    id="gender"
+                                    name="gender"
+                                    required
+                                >
+
+                                    <option value="">
+                                        Select gender
+                                    </option>
+
+                                    <option value="M">
+                                        Male
+                                    </option>
+
+                                    <option value="F">
+                                        Female
+                                    </option>
+
+                                </select>
+
+                            </div>
+
+
+                            <div class="form-group">
+
+                                <label for="city">
+                                    City
+                                </label>
+
+                                <input
+                                    type="text"
+                                    id="city"
+                                    name="city"
+                                    placeholder="City"
+                                    required
+                                >
+
+                            </div>
+
+
+                            <div class="form-group">
+
+                                <label for="state">
+                                    State
+                                </label>
+
+                                <input
+                                    type="text"
+                                    id="state"
+                                    name="state"
+                                    placeholder="State"
+                                    required
+                                >
+
+                            </div>
+
+
+                            <div class="form-group">
+
+                                <label for="zip">
+                                    ZIP Code
+                                </label>
+
+                                <input
+                                    type="number"
+                                    id="zip"
+                                    name="zip"
+                                    placeholder="713200"
+                                    required
+                                >
+
+                            </div>
+
+
+                            <div class="form-group">
+
+                                <label for="city_pop">
+                                    City Population
+                                </label>
+
+                                <input
+                                    type="number"
+                                    id="city_pop"
+                                    name="city_pop"
+                                    min="0"
+                                    placeholder="100000"
+                                    required
+                                >
+
+                            </div>
+
+
+                            <div class="form-group full-width">
+
+                                <label for="job">
+                                    Occupation / Job
+                                </label>
+
+                                <input
+                                    type="text"
+                                    id="job"
+                                    name="job"
+                                    placeholder="Software Engineer"
+                                    required
+                                >
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="form-section">
+
+                        <div class="section-title">
+                            <span>04</span>
+                            Location Details
+                        </div>
+
+
+                        <div class="location-box">
+
+                            <div class="location-heading">
+                                Customer Location
+                            </div>
+
+                            <div class="form-grid">
+
+                                <div class="form-group">
+
+                                    <label for="lat">
+                                        Customer Latitude
+                                    </label>
+
+                                    <input
+                                        type="number"
+                                        id="lat"
+                                        name="lat"
+                                        step="any"
+                                        placeholder="23.6850"
+                                        required
+                                    >
+
+                                </div>
+
+
+                                <div class="form-group">
+
+                                    <label for="long">
+                                        Customer Longitude
+                                    </label>
+
+                                    <input
+                                        type="number"
+                                        id="long"
+                                        name="long"
+                                        step="any"
+                                        placeholder="90.3563"
+                                        required
+                                    >
+
+                                </div>
+
+                            </div>
+
+
+                            <div class="location-heading merchant-location">
+                                Merchant Location
+                            </div>
+
+                            <div class="form-grid">
+
+                                <div class="form-group">
+
+                                    <label for="merch_lat">
+                                        Merchant Latitude
+                                    </label>
+
+                                    <input
+                                        type="number"
+                                        id="merch_lat"
+                                        name="merch_lat"
+                                        step="any"
+                                        placeholder="23.7000"
+                                        required
+                                    >
+
+                                </div>
+
+
+                                <div class="form-group">
+
+                                    <label for="merch_long">
+                                        Merchant Longitude
+                                    </label>
+
+                                    <input
+                                        type="number"
+                                        id="merch_long"
+                                        name="merch_long"
+                                        step="any"
+                                        placeholder="90.3700"
+                                        required
+                                    >
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="form-actions">
+
+                        <button
+                            type="submit"
+                            id="analyzeBtn"
+                            class="btn-primary"
+                        >
+                            Analyze Transaction
+                        </button>
+
+                        <button
+                            type="button"
+                            id="resetBtn"
+                            class="btn-secondary"
+                        >
+                            Reset
+                        </button>
+
+                    </div>
+
+                </form>
+
+            </section>
+
+
+            <aside class="result-panel">
+
+                <div class="result-header">
+
+                    <span class="panel-label">
+                        AI ANALYSIS
+                    </span>
+
+                    <h3>
+                        Detection Result
+                    </h3>
+
+                </div>
+
+
+                <div
+                    class="result-card"
+                    id="resultCard"
+                >
+
+                    <div
+                        class="result-placeholder"
+                        id="resultPlaceholder"
+                    >
+
+                        <div class="scan-icon">
+                            AI
+                        </div>
+
+                        <h4>
+                            Ready for Analysis
+                        </h4>
+
+                        <p>
+                            Enter the transaction details
+                            and start the AI analysis.
+                        </p>
+
+                    </div>
+
+
+                    <div
+                        class="result-content"
+                        id="resultContent"
+                        style="display: none;"
+                    >
+
+                        <div class="result-status">
+
+                            <span>
+                                FRAUD PROBABILITY
+                            </span>
+
+                            <strong id="probabilityValue">
+                                --
+                            </strong>
+
+                        </div>
+
+
+                        <div class="probability-track">
+
+                            <div
+                                class="probability-bar"
+                                id="probabilityBar"
+                            ></div>
+
+                        </div>
+
+
+                        <div class="result-details">
+
+                            <div class="result-box">
+
+                                <span>
+                                    Risk Level
+                                </span>
+
+                                <strong
+                                    id="riskValue"
+                                    class="risk-value"
+                                >
+                                    --
+                                </strong>
+
+                            </div>
+
+
+                            <div class="result-box">
+
+                                <span>
+                                    Detection Threshold
+                                </span>
+
+                                <strong id="thresholdValue">
+                                    90%
+                                </strong>
+
+                            </div>
+
+                        </div>
+
+
+                        <div
+                            class="result-message"
+                            id="resultMessage"
+                        ></div>
+
+                    </div>
+
+                </div>
+
+
+                <div class="system-info">
+
+                    <div class="info-item">
+
+                        <span class="info-icon">
+                            ML
+                        </span>
+
+                        <div class="info-text">
+
+                            <strong>
+                                Machine Learning
+                            </strong>
+
+                            <span>
+                                AI-powered fraud pattern analysis
+                            </span>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="info-item">
+
+                        <span class="info-icon">
+                            RT
+                        </span>
+
+                        <div class="info-text">
+
+                            <strong>
+                                Real-Time Detection
+                            </strong>
+
+                            <span>
+                                Instant transaction risk analysis
+                            </span>
+
+                        </div>
+
+                    </div>
+
+
+                    <div class="info-item">
+
+                        <span class="info-icon">
+                            SEC
+                        </span>
+
+                        <div class="info-text">
+
+                            <strong>
+                                Secure Processing
+                            </strong>
+
+                            <span>
+                                Protected transaction analysis
+                            </span>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </aside>
+
+        </main>
+
+
+        <footer class="footer">
+
+            <p>
+                CreditGuard AI
+                <span>•</span>
+                Intelligent Credit Card Fraud Detection
+            </p>
+
+            <span>
+                ML-Powered Security System
+            </span>
+
+        </footer>
+
+    </div>
+
+
+    <script
+        src="{{ url_for('static', filename='js/app.js') }}"
+    ></script>
+
+</body>
+
+</html>

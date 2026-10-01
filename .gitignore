@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+.env
+.vscode/
+.idea/
+*.log
+.DS_Store
+
+# Large datasets - kept locally, not uploaded to GitHub
+dataset/*.csv
+dataset/processed/*.csv
